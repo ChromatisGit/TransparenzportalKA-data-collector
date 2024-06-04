@@ -1,0 +1,157 @@
+ac4f2de9-44ac-419f-afd6-bbf670bc2a4e,Haushalte insgesamt,CSV,haushalte-insgesamt,Stadtteil,Jahr,Haushalte
+62b3b78e-7357-49dc-beb7-5a72531abe45,Ergebnisse (Stadtteile),CSV,,Wahlkreisnummer,Wahlkreisname,Stadtteilnummer,Stadtteilname,Wahlberechtigte insgesamt,Wahlberechtigte mit Wahlschein,Wahler/-innen,Gultige Erststimmen,"Wellenreuther, Ingo (CDU)","Marvi, Parsa (SPD)","Kotting-Uhl, Sylvia (GRUNE)","Theurer, Michael (FDP)","Bernhard, Marc (AfD)","Brandt, Michel (DIE LINKE)","Margic, Robin (Tierschutzpartei)","Dachner, Jonas (MLPD)","Kasper, Uwe (DIE RECHTE)","Glause, Stefan (Die PARTEI)","Mayer, Bruno (Kennwort: Burgerkandidat)",Gultige Zweitstimmen,CDU,SPD,GRUNE,FDP,AfD,DIE LINKE,PIRATEN,NPD,Tierschutzpartei,FREIE WAHLER,ODP,MLPD,Tierschutzallianz,BGE,DiB,DKP,DM,DIE RECHTE,MENSCHLICHE WELT,Die PARTEI,V-Partei3
+8b0012b6-92e6-4fe3-a1e1-d49a8306e12a,Finanzrechnung 2021,CSV,,MANDANT,FINANZKREIS,GESCH.JAHR,FINANZSTELLE,FINANZSTELLE BEZ.,FINANZPOSITION,FINANZPOSITION BEZ.,PLANZAHL LFD. JAHR,PLANZAHL FOLGEJAHR 1,PLANZAHL FOLGEJAHR 2,PLANZAHL FOLGEJAHR 3,PLANZAHL FOLGEJAHR 4,BUDGET ABG. JAHR,ERGEBNIS ABG. JAHR
+c74cb50a-e3c4-43bf-950f-6a01a783791b,3 bis unter 6 Jährige nach Geschlecht,CSV,bevoelkerung-im-alter-von-3-bis-unter-6-jahre-nach-geschlecht,Stadtteil,Jahr,Personen,mannlich,weiblich
+d2917c81-f983-47c9-a56d-b5e2570d1185,Einpersonenhaushalte (Anteil),CSV,einpersonenhaushalte-anteil,Stadtteil,Jahr,Haushalte %
+8dc0dc8e-6c17-4d98-b29e-5a08a1bb6509,Wanderungssaldo Gewinn(+)/Verlust(-),CSV,wanderungssaldo-gewinn-verlust,Stadtteil,Jahr,Personen
+6c020f39-ade1-42fa-af9e-cefac1717b9a,Wohngebäude mit einer Wohnung,CSV,wohngebaeude-mit-einer-wohnung,Stadtteil,Jahr,Wohngeb. mit 1 Wohnung
+1dd355b7-b24a-4215-b3be-fd40c4f44466,Parkhäuser (CSV),CSV,,FID,gemeinde,ph_name,parkhaus_adresse1,parkhaus_adresse2,betreiber_adresse1,gesamte_parkplaetze,oeffnungszeiten1,oeffnungszeiten2,kurzparker,dauerparker,frauenparkplaetze,behindertenparkplaetze,familienparkplaetze,e_parken,karlsruher,aufzug,max_durchfahrtshoehe,bemerkung,geometry
+79797678-30ab-4ccf-bcf7-6067be9794c4,18 bis unter 25 Jährige nach Geschlecht,CSV,bevoelkerung-im-alter-von-18-bis-unter-25-jahre-nach-geschlecht,Stadtteil,Jahr,Personen,mannlich,weiblich
+71ef348f-0f5b-46a0-8250-e87aae9f91bd,Wohnberechtigte Bevölkerung,CSV,,Stadtteil,Jahr,Wohnberechtigte,Hauptwohnung (%),Nebenwohnung (%)
+6e384bac-8ebc-4418-95ba-b43e343d9faa,Wohngebaudebestand,CSV,,Stadtteil,Jahr,Wohngebaude
+35a66b1b-4ba0-4606-b015-2e32a407d727,Ausländer/-innen im Alter ab 65 Jahren nach Geschlecht,CSV,auslaender-innen-im-alter-ab-65-jahren-nach-geschlecht,Stadtteil,Jahr,Personen,mannlich,weiblich
+2568dff2-4716-45ae-95ac-1a1ca18d3502,Bevölkerung mit Migrationshintergrund nach Art (Anteil),CSV,bevoelkerung-mit-migrationshintergrund-nach-art-anteil,Stadtteil,Jahr,Migrant/-innen %,Deutsche mit Migrationshintergrund (%),Auslander/-innen (%)
+225a1572-d661-4ac3-b23d-76f6a32a2621,Sonstige Mehrpersonenhaushalte,CSV,sonstige-mehrpersonenhaushalte,Stadtteil,Jahr,Haushalte
+2bae1cfa-14e1-45d3-b90d-3b375b9ef3ad,Einpersonenhaushalte,CSV,einpersonenhaushalte,Stadtteil,Jahr,Haushalte
+780a08c7-938e-4615-8559-0d72acaf04e5,Ergebnisse (Wahlbezirke),CSV,,Wahlkreisnummer,Wahlkreisname,Stadtteilnummer,Stadtteilname,Wahlbezirksnummer,Wahlbezirksname,Wahlberechtigte insgesamt,Wahlberechtigte mit Wahlschein,Wahler/-innen,Gultige Erststimmen,"Wellenreuther, Ingo (CDU)","Marvi, Parsa (SPD)","Kotting-Uhl, Sylvia (GRUNE)","Theurer, Michael (FDP)","Bernhard, Marc (AfD)","Brandt, Michel (DIE LINKE)","Margic, Robin (Tierschutzpartei)","Dachner, Jonas (MLPD)","Kasper, Uwe (DIE RECHTE)","Glause, Stefan (Die PARTEI)","Mayer, Bruno (Kennwort: Burgerkandidat)",Gultige Zweitstimmen,CDU,SPD,GRUNE,FDP,AfD,DIE LINKE,PIRATEN,NPD,Tierschutzpartei,FREIE WAHLER,ODP,MLPD,Tierschutzallianz,BGE,DiB,DKP,DM,DIE RECHTE,MENSCHLICHE WELT,Die PARTEI,V-Partei3
+9c5f3052-8b9a-429a-9a6c-9189785ddd97,Trinkwasseranalyse HB Luss (Stand Oktober 2019),CSV,,PARAMETERNAME,MESSWERT,EINHEIT,MESSDATUM
+dd5adbd5-bd8b-4a14-b685-198aa4cca1f9,85 und mehr Jährigen nach Geschlecht (Anteil),CSV,bevoelkerung-im-alter-von-85-und-mehr-jahren-nach-geschlecht-anteil,Stadtteil,Jahr,Altersklasse %,mannlich (%),weiblich (%)
+d5395f42-c8ef-4c9f-988f-9ee56d842997,Messwerte Friedrichsplatz September 2023,CSV,,Datum,Uhrzeit,name,quelle,beschreibung,messeinheit_tiefe,bodentemperatur,bodenfeuchte_prozent,lat,lon
+b58379fc-cd3a-4f79-b1b1-917ee69c94e2,Gesamtergebnishaushalt,CSV,,TITEL,JAHR,TYP,BETRAG
+e489a40e-d3e8-4888-b3a2-e09169a36a36,Messwerte Friedrichsplatz April 2023,CSV,,Datum,Uhrzeit,name,quelle,beschreibung,messeinheit_tiefe,bodentemperatur,bodenfeuchte_prozent,lat,lon
+9fd0555a-327c-4e65-8693-521c7b7fb350,15 bis unter 18 Jährige nach Geschlecht (Anteil),CSV,bevoelkerung-im-alter-von-15-bis-unter-18-jahre-nach-geschlecht-anteil,Stadtteil,Jahr,Altersklasse %,mannlich (%),weiblich (%)
+0151bc02-51d1-43f9-88ee-7b70ae52223d,Bewohnerparkzonen (CSV),CSV,,FID,gemeinde,bewohnerparkzone,kennziffer,parkplaetze,geometry
+3d1c9c93-3bc6-44ba-bf48-bf0f9c0d1126,Zuzüge nach Staatsangehörigkeit,CSV,zuzuege-nach-staatsangehoerigkeit,Stadtteil,Jahr,Personen,Deutsche,Auslander/-innen
+98645f11-afb5-4a16-95e5-b74e989270a3,Wiederholer und sonstige Ab-/Übergänge,CSV,wiederholer-und-sonstige-ab-uebergaenge-prozent,Stadtteil,Jahr,Wiederholer/ Sonstige %
+22e4e246-e858-48c2-b155-f9485140d39c,Messwerte Friedrichsplatz Juli 2023,CSV,,Datum,Uhrzeit,name,quelle,beschreibung,messeinheit_tiefe,bodentemperatur,bodenfeuchte_prozent,lat,lon
+9e50219d-83a2-4e57-887f-f21cf03c2a3c,Geburten nach Staatsangehörigkeit,CSV,geburten-nach-staatsangehoerigkeit,Stadtteil,Jahr,Geburten,Deutsche,Auslander/-innen
+d674d5dc-1c00-4868-973a-595c47d7d1b6,Schülerinnen und Schüler der 4. Klassenstufe insgesamt,CSV,uebergegangene-schuelerinnen-und-schueler-insgesamt,Stadtteil,Jahr,ubergegangene Schuler/-innen
+32bd3b93-7008-42a4-9736-bb83e726beb7,Unter 3 Jährige nach Geschlecht (Anteil),CSV,bevoelkerung-im-alter-unter-3-jahren-nach-geschlecht-anteil,Stadtteil,Jahr,Altersklasse %,mannlich (%),weiblich (%)
+8bb611b3-4560-429d-bba7-c6d018752f0e,KA-Feedback Meldungen 2016,CSV,,Vorgangsnnummer,Kategorie,Ort,Zustand,Erstellungsdatum,Letztes Bearbeitungsdatum,Eingangskanal
+fc198da4-d976-469e-b7fe-cb8f9c7f42d9,Messwerte Friedrichsplatz März 2023,CSV,,Datum,Uhrzeit,name,quelle,beschreibung,messeinheit_tiefe,bodentemperatur,bodenfeuchte_prozent,lat,lon
+9f98cfb3-ffa0-402e-9b0a-e1ae35419af8,Trinkwasseranalysen HB Luss (Stand März 2021),CSV,,PARAMETERNAME,MESSWERT,EINHEIT,MESSDATUM
+15e317b3-0e17-4451-9d4e-5d5478620f1c,Trinkwasseranalyse HB Luss (Stand Februar 2017),CSV,,PARAMETERNAME,MESSWERT,EINHEIT,MESSDATUM
+a5f04b45-528a-41b5-8d8c-eb9677bf2fd1,Hunde insgesamt,CSV,anzahl-der-hunde,Stadtteil,Jahr,Hunde,Hunde je 1.000 Bewohner/-innen (Wohnberechtigte),Hunde je 1.000 Haushalte (HH)
+6016eae2-4594-470b-8c1f-9da19bfaa2a4,Wohngebäude,CSV,,Stadtteil,Jahr,Wohngebaeude
+913f2550-f7ff-445f-a3ea-128615fe0b58,sportvereine_sportarten.csv,CSV,,159,Footvolley
+2b8abad2-16c2-4e52-afbc-d57a9d252e89,85 und mehr Jährigen nach Geschlecht,CSV,bevoelkerung-im-alter-von-85-und-mehr-jahren-nach-geschlecht,Stadtteil,Jahr,Personen,mannlich,weiblich
+69c015ff-ada7-410c-802e-7effb532ea72,Blitzer Stationär (CSV),CSV,,FID,gemeinde,standort,stationaer,grund1,grund2,grund3,grund4,geometry
+638f0166-3713-4497-a64e-5db0e07bbd9b,Frauenanteil,CSV,frauenanteil,Stadtteil,Jahr,Frauenanteil
+4d682cab-33e1-48ce-b947-91143eca1344,Sonderpädagogische Bildungs- und Beratungszentren (SBBZ - Sonder-/Förderschulen),CSV,schuelerinnen-und-schueler-an-sonder-foerderschulen,Stadtteil,Jahr,Schuler/-innen
+63f40b50-56d9-4c35-aa82-7cd8ddbfad25,Zuzüge nach Geschlecht,CSV,zuzuege-nach-geschlecht,Stadtteil,Jahr,Personen,mannlich (%),weiblich (%)
+17817ebe-5e64-4dab-88db-6cdecf7d8b85,Mehrpersonenhaushalte (Anteil),CSV,mehrpersonenhaushalte-anteil,Stadtteil,Jahr,Haushalte %
+d8be5f4a-0788-4ee3-abe5-b36313ce3799,Bevölkerung mit Hauptwohnung,CSV,bevoelkerung-mit-hauptwohnung,Stadtteil,Jahr,Hauptwohnung,mannlich (%),weiblich (%)
+aa5497ab-82fe-4338-8bcb-a689a790b110,Einpersonenhaushalte im Alter unter 30 Jahren (Anteil),CSV,einpersonenhaushalte-im-alter-unter-30-jahren-anteil,Stadtteil,Jahr,Haushalte %
+2a7fd644-bc67-477a-bb9e-cf88f076b7af,Stadtteile Stadt Karlsruhe - GeoJSON,GeoJSON,
+66b5eb29-617c-4f67-8ffe-237d6836f14f,Wegzüge nach Geschlecht,CSV,wegzuege-nach-geschlecht,Stadtteil,Jahr,Personen,mannlich (%),weiblich (%)
+d49eda6f-3c69-4fd9-8076-3689329e5711,Männer,CSV,maenner,Stadtteil,Jahr,Manner
+168a04b0-c066-4314-8b78-db30959f46ef,Männeranteil,CSV,maenneranteil,Stadtteil,Jahr,Manneranteil
+09448031-d4ff-4ae3-b28f-0aa139a1e84a,Behindertenparkplätze als CSV,CSV,,FID,gemeinde,stadtteil,standort,parkzeit,max_parkdauer,stellplaetze,bemerkung,geometry
+c952a134-caa0-42b9-b482-204bba736e4c,Unter 20 Jährige,CSV,bevoelkerung-im-alter-von-unter-20-jahren,Stadtteil,Jahr,Personen
+503666dd-cb8d-448f-a84e-856e0c89ce1a,Sonstige Mehrpersonenhaushalte (Anteil),CSV,sonstige-mehrpersonenhaushalte-anteil,Stadtteil,Jahr,Haushalte %
+4a16a696-d56d-4fac-b30c-8ca2c6d99f73,Trinkwasseranalysen HB Luss (Stand März 2022),CSV,,PARAMETERNAME,MESSWERT,EINHEIT,MESSDATUM
+45757a1d-ea7b-40a4-858a-b83727d5ce12,Haushalte mit Kindern unter 18 Jahren,CSV,haushalte-mit-kindern-unter-18-jahren,Stadtteil,Jahr,Haushalte
+613d1620-f275-46a2-9eef-98e84c83e392,Wahlbezirken und Wahlräumen,CSV,,datum,ags,Bezirk-Nr,Bezirk-Name,Bezirk-Art,Wahlraum-Bezeichnung,Wahlraum-Adresse,Wahlraum-Barrierefrei,Wahlraum-Barrierefrei-Ergaenzung
+379176a1-27d3-4217-ab09-82e457a7a3d4,Paare mit Kind(ern) (Anteil),CSV,paare-mit-kindern-anteil,Stadtteil,Jahr,Haushalte %
+7cff3291-8e9e-4c41-894a-71791ea55e37,25 bis unter 45 Jährige nach Geschlecht (Anteil),CSV,bevoelkerung-im-alter-von-25-bis-unter-45-jahre-nach-geschlecht-anteil,Stadtteil,Jahr,Altersklasse %,mannlich (%),weiblich (%)
+fd9de911-5142-4083-9d1b-5e09788022b3,Treibhausgasbilanz,CSV,,year,category,type,co2,note
+fd159d95-5aba-4eb1-be4d-f2ec92fa8f42,Wohngebäude mit zwei Wohnungen,CSV,wohngebaeude-mit-zwei-wohnungen,Stadtteil,Jahr,Wohngeb. mit 2 Wohnungen
+8213c5d8-7b28-4f9e-ab97-a1bc6da9112f,Bevölkerung mit Nebenwohnung,CSV,bevoelkerung-mit-nebenwohnung,Stadtteil,Jahr,Nebenwohnung
+aa2d2b17-15ea-4827-ac5a-a5b2b295aed8,Übergangsquoten auf Realschulen,CSV,uebergaenge-auf-realschulen-prozent,Stadtteil,Jahr,Realschule %
+7dd118e3-5a3e-43fb-8416-3cd6e449e07d,KA-Feedback Meldungen 2013,CSV,,Vorgangsnnummer,Kategorie,Ort,Zustand,Erstellungsdatum,Letztes Bearbeitungsdatum,Eingangskanal
+28c99b77-3ce1-450e-8417-53d4c4d7a080,Messwerte Friedrichsplatz August 2023,CSV,,Datum,Uhrzeit,name,quelle,beschreibung,messeinheit_tiefe,bodentemperatur,bodenfeuchte_prozent,lat,lon
+e6fbd89e-54f4-4ad5-98c3-e15c97509548,Messwerte Friedrichsplatz Mai 2023,CSV,,Datum,Uhrzeit,name,quelle,beschreibung,messeinheit_tiefe,bodentemperatur,bodenfeuchte_prozent,lat,lon
+7937471b-d832-4c59-ab9d-032e1434aff9,Mehrpersonenhaushalte,CSV,mehrpersonenhaushalte,Stadtteil,Jahr,Haushalte
+aea75426-a745-4515-b144-ef213a3ea96e,Unter 18 Jährige mit Migrationshintergrund nach Art (Anteil),CSV,bevoelkerung-mit-migrationshintergrund-im-alter-von-unter-18-jahren-nach-art-anteil,Stadtteil,Jahr,Personen,Deutsche mit Migrationshintergrund (%),Auslander/-innen (%)
+de830f9b-e610-4afd-aafa-e71f8d9b7dc3,Schülerinnen und Schüler insgesamt,CSV,schuelerinnen-und-schueler-insgesamt,Stadtteil,Jahr,Schuler/-innen
+5296efff-037d-4cbe-8d5a-fe3ccf17c528,Geburten je 1000 Einwohner/-innen,CSV,geburten-je-1000-einwohner-innen,Stadtteil,Jahr,Geburten
+422191ae-9c32-48d4-aa2c-08311e4a73cc,Motorradparkplätze (CSV),CSV,,FID,standort,gemeinde,parkzeit,max_parkdauer,stellplaetze,gebuehren,bemerkung,geometry
+9e2429c9-1ff4-4bd9-aa0a-44c0ac4768b9,Ergebnis nach Wahlbezirken,CSV,,datum,wahl,ags,gebiet-nr,gebiet-name,max-schnellmeldungen,anz-schnellmeldungen,A1,A2,A3,A,B,B1,C,D,D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29
+f9e4a854-9d57-4263-bf15-8fca1dfd9271,Finanzrechnung 2022,CSV,,MANDANT,FINANZKREIS,GESCH.JAHR,FINANZSTELLE,FINANZSTELLE BEZ.,FINANZPOSITION,FINANZPOSITION BEZ.,PLANZAHL LFD. JAHR,PLANZAHL FOLGEJAHR 1,PLANZAHL FOLGEJAHR 2,PLANZAHL FOLGEJAHR 3,PLANZAHL FOLGEJAHR 4,BUDGET ABG. JAHR,ERGEBNIS ABG. JAHR
+bbb9dd88-ffff-4b95-b065-3d74973d4a7f,45 bis unter 65 Jährige nach Geschlecht (Anteil),CSV,bevoelkerung-im-alter-von-45-bis-unter-65-jahre-nach-geschlecht-anteil,Stadtteil,Jahr,Altersklasse %,mannlich (%),weiblich (%)
+b97c9405-ecb8-42a8-9854-560d2f921531,Ergebnisse Europawahl 2019,CSV,,Partei/politische Vereinigung,Parteiname,Stimmen,%
+726fb982-0d9b-495d-b95c-898b3e0bea90,Jahresstatistik September 2020 bis August 2021,CSV,,Leistungsbezeichnung,URL,Besucher gesamt,September,Oktober,November,Dezember,Januar,Februar,Maerz,April,Mai,Juni,Juli,August
+222adad1-baf0-421e-9cdd-d723f6a22bf9,Übergangsquoten auf Gymnasien,CSV,uebergaenge-auf-gymnasien-prozent,Stadtteil,Jahr,Gymnasium %
+df843a83-b3f6-4929-b6a8-96471508f6f2,Messwerte Friedrichsplatz Oktober 2023,CSV,,Datum,Uhrzeit,name,quelle,beschreibung,messeinheit_tiefe,bodentemperatur,bodenfeuchte_prozent,lat,lon
+19c40fe4-4282-4b46-9146-4456796ac54e,KA-Feedback Meldungen 2020,CSV,,Vorgangsnnummer,Kategorie,Ort,Zustand,Erstellungsdatum,Letztes Bearbeitungsdatum,Eingangskanal
+f2128444-47e7-40ba-ab1d-eb426e69c009,Bevölkerung mit sonstiger/keiner Religionszugehörigkeit,CSV,bevoelkerung-mit-sonstiger-keiner-religionszugehoerigkeit,Stadtteil,Jahr,sonstige/keine Religion
+51412c59-0356-456d-9412-fa7f3bf18741,KA-Feedback Meldungen 2012,CSV,,Vorgangsnnummer,Kategorie,Ort,Zustand,Erstellungsdatum,Letztes Bearbeitungsdatum,Eingangskanal
+6a8f8357-8151-4afc-958a-dc869b284d79,Kinderspielplätze,CSV,kinderspielplaetze,Stadtteil,Jahr,Anzahl
+85ed3a76-6018-4043-901d-1b3a5e1aaf8f,KA-Feedback Meldungen 2018,CSV,,Vorgangsnummer,Kategorie,Ort,Zustand,Erstellungsdatum,Letztes Bearbeitungsdatum,Eingangskanal
+e9f6ce98-a6a7-42fa-b728-9484e71998c0,Finanzhaushalt,CSV,,MANDANT,FINANZKREIS,GESCH.JAHR,FINANZSTELLE,FINANZSTELLE BEZ.,FINANZPOSITION,FINANZPOSITION BEZ.,PLANZAHL LFD. JAHR,PLANZAHL FOLGEJAHR 1,PLANZAHL FOLGEJAHR 2,PLANZAHL FOLGEJAHR 3,PLANZAHL FOLGEJAHR 4,BUDGET ABG. JAHR,ERGEBNIS ABG. JAHR
+a92cd46b-7243-46f6-ac72-4fa3dcdeb35f,3 bis unter 6 Jährige nach Geschlecht (Anteil),CSV,bevoelkerung-im-alter-von-3-bis-unter-6-jahre-nach-geschlecht-anteil,Stadtteil,Jahr,Altersklasse %,mannlich (%),weiblich (%)
+6076f756-4940-4b1d-80af-e9ff597478ea,Paare ohne Kind(er) (Anteil),CSV,paare-ohne-kinder-anteil,Stadtteil,Jahr,Haushalte %
+55c92e07-dba2-485f-8231-c163a688f238,KA-Feedback Meldungen 2021,CSV,,Vorgangsnnummer,Kategorie,Ort,Zustand,Erstellungsdatum,Letztes Bearbeitungsdatum,Eingangskanal
+4d9dd7d7-9b4d-4ece-86a8-a087ffc38cb3,65 bis unter 75 Jährige nach Geschlecht (Anteil),CSV,bevoelkerung-im-alter-von-65-bis-unter-75-jahre-nach-geschlecht-anteil,Stadtteil,Jahr,Altersklasse %,mannlich (%),weiblich (%)
+fa16ad9e-fea8-41e2-8572-6bf38ef1d192,Paare mit Kind(ern),CSV,paare-mit-kindern,Stadtteil,Jahr,Haushalte
+a6d8f29a-5136-46e7-8245-c5b8c3b09244,Übergangsquoten auf Gemeinschaftsschulen,CSV,uebergaenge-auf-gemeinschaftsschulen-prozent,Stadtteil,Jahr,Gemeinschaftsschule %
+368b34e9-475d-4af8-8f1f-f636776af4d0,KA-Feedback Meldungen 2015,CSV,,Vorgangsnnummer,Kategorie,Ort,Zustand,Erstellungsdatum,Letztes Bearbeitungsdatum,Eingangskanal
+da54e683-f5d9-4f57-8efe-e5f88dada06f,Zwischen 20 und unter 65 Jährige,CSV,bevoelkerung-im-alter-zwischen-20-und-unter-65-jahren,Stadtteil,Jahr,Personen
+dad2aa2f-3c0a-478b-bbad-035d1de7c9e1,Wohngebäude mit drei bis sechs Wohnungen,CSV,wohngebaeude-mit-drei-bis-sechs-wohnungen,Stadtteil,Jahr,Wohngeb. mit 3-6 Wohnungen
+607e618b-d89a-42e9-bfe5-b7bf4b784b28,Grundschulen,CSV,schuelerinnen-und-schueler-an-grundschulen-einschliesslich-primarstufe-der-gms,Stadtteil,Jahr,Schuler/-innen
+7eebd0ec-142b-4696-a8e8-c0be013231ef,Messwerte Friedrichsplatz Februar 2023,CSV,,Datum,Uhrzeit,name,quelle,beschreibung,messeinheit_tiefe,bodentemperatur,bodenfeuchte_prozent,lat,lon
+7d0058ff-be22-48ba-b829-b0f63056a81f,Teilfinanzhaushalte,CSV,,TEILHAUSHALT,TITEL,JAHR,TYP,BETRAG
+9c4d9f87-ffdf-4cb4-90fc-02030e0b4c78,Haushalte von Alleinerziehenden (Anteil),CSV,haushalte-von-alleinerziehenden-anteil,Stadtteil,Jahr,Haushalte %
+2fe18edf-867a-41e0-b2c5-c0d18367dba0,Ausländer/-innen im Alter ab 65 Jahren nach Geschlecht (Anteil),CSV,auslaender-innen-im-alter-ab-65-jahren-nach-geschlecht-anteil,Stadtteil,Jahr,Personen,mannlich (%),weiblich (%)
+dc4af0a6-32fe-4ab4-95ad-839f6e2c180c,Einpersonenhaushalte im Alter 60 Jahre und älter (Anteil),CSV,einpersonenhaushalte-im-alter-60-jahre-und-aelter-anteil,Stadtteil,Jahr,Haushalte %
+9003976d-704c-4472-8671-d3dff04922b9,Messwerte Friedrichsplatz Januar 2023,CSV,,Datum,Uhrzeit,name,quelle,beschreibung,messeinheit_tiefe,bodentemperatur,bodenfeuchte_prozent,lat,lon
+68cd602d-2e05-4301-9398-db1340d56d37,KA-Feedback Meldungen 2019,CSV,,Vorgangsnnummer,Kategorie,Ort,Zustand,Erstellungsdatum,Letztes Bearbeitungsdatum,Eingangskanal
+fff8e4ba-7b73-4b8a-b8fd-2b2cbeec8a70,Ergebnisrechnung 2022,CSV,,MANDANT,KOREKREIS,GESCH.JAHR,AUFTRAG,AUFTRAG BEZ.,PSP-ELEMENT,PSP-ELEMENT-BEZ.,KOSTENSTELLE,KOSTENSTELLE BEZ.,PROFITCENTER,PROFITCENTER BEZ.,KOSTENART,KOSTENART BEZ.,E/A,IMMO-OBJEKT,PLANZAHL LFD. JAHR,PLANZAHL FOLGEJAHR 1,PLANZAHL FOLGEJAHR 2,PLANZAHL FOLGEJAHR 3,PLANZAHL FOLGEJAHR 4,BUDGET ABG. JAHR,ERGEBNIS ABG. JAHR
+125e65b0-9c9b-4643-afb7-3fc458636173,Wohnungen,CSV,,Stadtteil,Jahr,Wohnungen
+68998f09-d2ce-428d-ac59-0b7baaa4a376,Sterbefälle nach Geschlecht,CSV,,Stadtteil,Jahr,Gestorbene,mannlich (%),weiblich (%)
+c604d6d8-66bd-4175-8689-e657429127b0,18 bis unter 25 Jährige nach Geschlecht (Anteil),CSV,bevoelkerung-im-alter-von-18-bis-unter-25-jahre-nach-geschlecht-anteil,Stadtteil,Jahr,Altersklasse %,mannlich (%),weiblich (%)
+026da0ed-7df8-4446-b4fb-e756c0dde2a5,Anteil der Bevölkerung mit Hauptwohnung,CSV,anteil-der-bevoelkerung-mit-hauptwohnung,Stadtteil,Jahr,Hauptwohnung
+6b61884f-68d5-4b11-ab39-0b90bb264622,Ergebnis nach Stadtteilen,CSV,,datum,wahl,ags,gebiet-nr,gebiet-name,max-schnellmeldungen,anz-schnellmeldungen,A1,A2,A3,A,B,B1,C,D,D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29
+35fa3b12-5a31-42f6-9d41-23d1f499b5c3,Parkscheinautomaten (CSV),CSV,,FID,gemeinde,standort,tarifzone,parkzeit,max_parkdauer,gebuehren,stellplaetze,akzept_muenzen,geldkarte,broetchentaste,fremdsprache,karlsruher,bemerkung,geometry
+49eeae6e-98d4-46c7-bec3-a92e79b2c275,25 bis unter 45 Jährige nach Geschlecht,CSV,bevoelkerung-im-alter-von-25-bis-unter-45-jahre-nach-geschlecht,Stadtteil,Jahr,Personen,mannlich,weiblich
+e3e69806-4903-44c4-a17d-bce2a940d3a0,Wanderungssaldo je 1000 Einwohner/-innen,CSV,wanderungssaldo-je-1000-einwohner-innen,Stadtteil,Jahr,Personen
+7def7a9d-3059-4d0f-bc3c-fcb74ea44003,Haushalte von Alleinerziehenden,CSV,haushalte-von-alleinerziehenden,Stadtteil,Jahr,Haushalte
+b221c736-5d15-4841-a3ef-e9be8386a1ea,Unter 18 Jährige mit Migrationshintergrund nach Art,CSV,bevoelkerung-mit-migrationshintergrund-im-alter-von-unter-18-jahren-nach-art,Stadtteil,Jahr,Personen,Deutsche mit Migrationshintergrund,Auslander/-innen
+1a9b69ef-b5e2-432f-8399-0d2c737bd320,Wegzüge nach Staatsangehörigkeit,CSV,wegzuege-nach-staatsangehoerigkeit,Stadtteil,Jahr,Personen,Deutsche,Auslander/-innen
+7cfab000-e64b-41bb-95ad-2035663fc145,Bevölkerung mit Migrationshintergrund nach Art,CSV,bevoelkerung-mit-migrationshintergrund-nach-art,Stadtteil,Jahr,Personen,Deutsche mit Migrationshintergrund,Auslander/-innen
+06210b52-ffc1-4866-8b3b-1a6d3638e3cc,Paare ohne Kind(er),CSV,paare-ohne-kinder,Stadtteil,Jahr,Haushalte
+b0807118-2928-493c-b4c4-5336e67a2f5b,Werkrealschulen,CSV,schuelerinnen-und-schueler-an-werkrealschulen,Stadtteil,Jahr,Schuler/-innen
+6f1f000e-ff6f-4b4f-aa8a-77956797e91f,Gymnasien,CSV,schuelerinnen-und-schueler-an-gymnasien,Stadtteil,Jahr,Schuler/-innen
+a8f90a0e-0034-4596-84df-f8e9ffc70c2c,Parkscheiben Parkplätze (CSV),CSV,,FID,gemeinde,stadtteil,standort,stellplaetze,max_parkdauer,parkzeit_1,parkzeit_2,bemerkung,geometry
+a5b8df62-dbe2-43bb-94d9-c468648a565f,75 bis unter 85 Jährige nach Geschlecht (Anteil),CSV,bevoelkerung-im-alter-von-75-bis-unter-85-jahre-nach-geschlecht-anteil,Stadtteil,Jahr,Altersklasse %,mannlich (%),weiblich (%)
+ac99864b-ab11-4d25-9d83-b56bc8d0782a,Trinkwasseranalyse HB Luss (Stand Dezember 2017),CSV,,PARAMETERNAME,MESSWERT,EINHEIT,MESSDATUM
+c3d707e4-c89a-4c43-ac06-fe8fdf1fd405,Jugendquotient,CSV,jugendquotient,Stadtteil,Jahr,Jugendquotient
+ab0f679d-6b24-4bff-8ee8-5db0e8d7fff7,Trinkwasseranalysen HB Luss (Stand Juli 2023),CSV,,PARAMETERNAME,MESSWERT,EINHEIT,MESSDATUM
+72110d58-727f-4e04-a68d-2a907ba7d4fb,15 bis unter 18 Jährige nach Geschlecht,CSV,bevoelkerung-im-alter-von-15-bis-unter-18-jahre-nach-geschlecht,Stadtteil,Jahr,Personen,mannlich,weiblich
+889f722b-5219-40ba-9c1a-603e9c9162bf,sportvereine_eintrag_rubrik.csv,CSV,,5864,510,157
+e031fe5f-90e0-4398-8824-a9fcc213a768,Wohngebäude mit sieben und mehr Wohnungen,CSV,wohngebaeude-mit-sieben-und-mehr-wohnungen,Stadtteil,Jahr,Wohngeb. mit 7 u. mehr Wohnungen
+a5c2cb40-d185-405d-8350-039144dd7f2d,Unter 18 Jährige mit Migrationshintergrund nach Geschlecht,CSV,bevoelkerung-mit-migrationshintergrund-im-alter-von-unter-18-jahren-nach-geschlecht,Stadtteil,Jahr,Personen,mannlich,weiblich
+ea8303b4-0494-4f95-b624-f695753d1a2c,65 bis unter 75 Jährige nach Geschlecht,CSV,bevoelkerung-im-alter-von-65-bis-unter-75-jahre-nach-geschlecht,Stadtteil,Jahr,Personen,mannlich,weiblich
+85deef2a-90a5-4155-8d05-112c802ee72f,Wetterdaten-13-monate-rückwirkend,CSV,,Datum,Mittlere_Temperatur,Temp_max,Temp_min,Regen_mm,Strahlung_ W/mA2,Mittlere_Windgeschwindigkeit_km/h,Windboen_km/h,Richtung,Mittlerer_Luftdruck_hPa,Mittlere_Luftfeuchte,Taupunkt,Sonnenscheindauer_Min
+565c1c6e-a50c-46d2-8638-22896d21096f,Unter 3 Jährige nach Geschlecht,CSV,bevoelkerung-im-alter-unter-3-jahren-nach-geschlecht,Stadtteil,Jahr,Personen,mannlich,weiblich
+5bef54ed-393f-4944-9a37-19e2335ab488,Parteien,CSV,,Kurzbezeichnung,Name
+bd2e7f77-2dce-43ea-957b-7025520fe6a7,Gesamtfinanzhaushalt,CSV,,TITEL,JAHR,TYP,BETRAG
+c222f4d6-eaba-4d81-b953-e4e069a0d884,Ergebnis nach Wahlkreisen,CSV,,datum,wahl,ags,gebiet-nr,gebiet-name,max-schnellmeldungen,anz-schnellmeldungen,A1,A2,A3,A,B,B1,C,D,D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29
+2c7f968e-86bf-44ac-b45e-7c3943990476,Gemeinschaftsschulen (nur Sekundarstufe I),CSV,schuelerinnen-und-schueler-an-gemeinschaftsschulen-nur-sekundarstufe-1,Stadtteil,Jahr,Schuler/-innen
+b4547600-d11e-4ac3-9fc4-bc5bc5354dc4,Teilergebnishaushalte,CSV,,TEILHAUSHALT,PRODUKTBEREICH,PRODUKTGRUPPE,KONTOGRUPPE,TITEL,JAHR,TYP,BETRAG
+ac2e81d4-7a1c-499b-89e4-22acd5cea109,Katholische Bevölkerung,CSV,katholische-bevoelkerung,Stadtteil,Jahr,Katholisch
+85259275-a944-4357-aee5-b7451c2fce99,Frauen,CSV,frauen,Stadtteil,Jahr,Frauen
+6fa5196b-6b6c-46b2-b700-4e302f887919,Wahlkreis 28 (Karlsruhe II),CSV,,Wahlkreisnummer,Wahlkreisname,Stadtteilnummer,Stadtteilname,Wahlbezirksnummer,Wahlbezirksname,Wahlberechtigte insgesamt,Wahlberrechtigte mit Wahlschein,Wahler/-innen,Gultige Stimmen,"Schutz, Katrin (CDU)","Salomon, Alexander (GRUNE)","Uhlig, Meri (SPD)","Dorr, Hendrik (FDP)","Dr. Skubsch, Sabine (DIE LINKE)","Wohlfeil, Erik (PIRATEN)","Holzwarth, Ursula (REP)","Leiber, Markus (NPD)","Uehlein, Dirk (ODP)","Schulz, Andreas (Die PARTEI)","Walch, Alexander (ALFA)","Bernhard, Marc (AfD)","Langner, Keven (DIE RECHTE)","Dr. Frank, Jessica (Tierschutzpartei)"
+d89f8702-30ac-4fb9-9f3a-ef1139e55365,Wanderungsvolumen je 1000 Einwohner/-innen,CSV,wanderungsvolumen-je-1000-einwohner-innen,Stadtteil,Jahr,Personen
+d4d979e4-e518-424c-82b5-ab0c8b6bcc25,Trinkwasseranalyse HB Luss (Stand Juni 2018),CSV,,PARAMETERNAME,MESSWERT,EINHEIT,MESSDATUM
+980ad0c7-d4ab-4dce-b634-5ca991d22464,KA-Feedback Meldungen 2017,CSV,,Vorgangsnummer,Kategorie,Ort,Zustand,Erstellungsdatum,Letztes Bearbeitungsdatum,Eingangskanal
+5114726f-cdce-4816-80f0-edc8c7786cab,45 bis unter 65 Jährige nach Geschlecht,CSV,bevoelkerung-im-alter-von-45-bis-unter-65-jahre-nach-geschlecht,Stadtteil,Jahr,Personen,mannlich,weiblich
+a976c36f-0d65-49a8-9471-c3f3f8fc6bee,Einpersonenhaushalte im Alter unter 30 Jahren,CSV,einpersonenhaushalte-im-alter-unter-30-jahren,Stadtteil,Jahr,Haushalte
+f120ef9b-4aed-480b-9c67-c1301da2b34e,Parteien,CSV,,Kurzbezeichnung,Name
+7693fd39-3469-4374-a7b2-4dd2cac9e4f0,Einpersonenhaushalte im Alter 60 Jahre und älter,CSV,einpersonenhaushalte-im-alter-60-jahre-und-aelter,Stadtteil,Jahr,Haushalte
+c93d37d8-2fdb-4e2c-97de-a5eded70af58,Realschulen,CSV,schuelerinnen-und-schueler-an-realschulen,Stadtteil,Jahr,Schuler/-innen
+2c6f0e52-51d1-488d-91ec-7e51ec44d7d6,Wahlkreis 27 (Karlsruhe I),CSV,,Wahlkreisnummer,Wahlkreisname,Stadtteilnummer,Stadtteilname,Wahlbezirksnummer,Wahlbezirksname,Wahlberechtigte insgesamt,Wahlberrechtigte mit Wahlschein,Wahler/-innen,Gultige Stimmen,"Meier-Augenstein, Bettina (CDU)","Lisbach, Bettina (GRUNE)","Stober, Johannes (SPD)","Hoyem, Tom (FDP)","Brandt, Michel (DIE LINKE)","Scheffel, Konrad (PIRATEN)","Jorg, Herbert (REP)","Leiber, Markus (NPD)","Lorch, Bernhard (ODP)","Keller, Martin (Die PARTEI)","Pfahler, Michael (ALFA)","Dr. Schmidt, Paul (AfD)","Langner, Keven (DIE RECHTE)","Dr. Frank, Jessica (Tierschutzpartei)"
+2af3b5ef-d5da-404b-ac8d-c1fc78124e66,75 bis unter 85 Jährige nach Geschlecht,CSV,bevoelkerung-im-alter-von-75-bis-unter-85-jahre-nach-geschlecht,Stadtteil,Jahr,Personen,mannlich,weiblich
+a78b85c9-a9c8-4d2e-b844-cd98503c806e,Teilhaushalte,CSV,,NUMMER,TITEL
+9b34d206-c2cd-41b6-8ed0-f817cc69dd11,65 Jährige und Ältere,CSV,bevoelkerung-im-alter-von-65-jahren-und-aelter,Stadtteil,Jahr,Personen
+227edd1a-e547-4de6-b153-9294ebde4ba6,Evangelische Bevölkerung,CSV,evangelische-bevoelkerung,Stadtteil,Jahr,Evangelisch
+46b95145-d15c-4e55-a74d-993afa714ec6,Übergangsquoten auf Haupt-/Werkrealschulen,CSV,uebergaenge-auf-haupt-werkrealschulen-prozent,Stadtteil,Jahr,Haupt-/Werkrealschule %
+ab7aae34-1934-493d-b2a9-f4919b31a460,Teilhaushalte,CSV,,NUMMER,TITEL
+bceaadbd-5004-49ae-848f-b7a3dacc2f0c,Geburtenüberschuss(+)/-defizit(-),CSV,geburtenueberschuss-defizit,Stadtteil,Jahr,Personen
+241f96ab-5bcc-43c5-91bd-bde8dc3e74f3,Anteil der Bevölkerung mit Nebenwohnung,CSV,anteil-der-bevoelkerung-mit-nebenwohnung,Stadtteil,Jahr,Nebenwohnung
+723dbf86-993f-4f3d-9fc8-a12cff3249fe,KA-Feedback Meldungen 2014,CSV,,Vorgangsnnummer,Kategorie,Ort,Zustand,Erstellungsdatum,Letztes Bearbeitungsdatum,Eingangskanal
+7847b72d-1fd2-43a6-a611-907403ecdc99,Altenquotient,CSV,altenquotient,Stadtteil,Jahr,Altenquotient
+8ab3a67d-cc4c-4d6a-b0cc-d52db63f702d,Haushalte mit Kindern unter 18 Jahren (Anteil),CSV,haushalte-mit-kindern-unter-18-jahren-anteil,Stadtteil,Jahr,Haushalte %
+863bda3a-7693-4a7d-9eb8-268687964c83,Messwerte Friedrichsplatz Juni 2023,CSV,,Datum,Uhrzeit,name,quelle,beschreibung,messeinheit_tiefe,bodentemperatur,bodenfeuchte_prozent,lat,lon
+4eb21bba-693b-4b12-a15c-c0550ed6224d,Geburten nach Geschlecht,CSV,geburten-nach-geschlecht,Stadtteil,Jahr,Geburten,mannlich (%),weiblich (%)
+00cb5ea4-9e4b-4697-9f0b-b4474bf13f89,Wahlbezirke nach Adresse,CSV,,AGS,Ort,StraAYennummer,StraAYenname,Hausnummer,Hausnummerzusatz,PLZ,Wahlkreis,Wahlbezirk
