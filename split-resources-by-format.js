@@ -1,21 +1,24 @@
 const fs = require('fs');
 const csv = require('csv-parser');
 
-function removeDuplicatesFromAnleihen() {
-    const today = new Date();
-    const records = {};
-    const path = 'data/neueAnleihen.csv'
+function splitByFormat() {
+    const types = {CSV:[],PDF:[],GeoJSON:[],others:[]};
 
-    fs.createReadStream(path)
+    fs.createReadStream('resources/resources.csv')
         .pipe(csv({ delimiter: ',' }))
         .on('data', (data) => {
-            const name = data.Unternehmensname;
-            if (!records[name] || couponRendite(data, today) > couponRendite(records[name], today)) {
-                records[name] = data;
+            if(data.format in types) {
+                types[data.format].push(data)
+            }
+            else {
+                types.others.push(data)
             }
         })
         .on('end', () => {
-            const csv = convertJSONtoCSV(Object.values(records), ['Kaufdatum', 'Unternehmensname', 'Branche des Hauptkonzern', 'Anteile', 'Stückelung', 'Kaufkurs', 'Coupon', 'Wechselkurs am Kauftag', 'Währung', 'Zinszahlungen pro Jahr', 'Letzter Zinstermin', 'Land', 'Börse', 'ISIN', 'Quelle', 'Kaufbar', 'Bereits Gekauft'])
-            fs.promises.writeFile(path, csv)
+            Object.entries(types).forEach(([key, val]) =>{
+                fs.writeFileSync(`${key}.json`, JSON.stringify(val, null, 2))
+            })
         });
 }
+
+splitByFormat()
