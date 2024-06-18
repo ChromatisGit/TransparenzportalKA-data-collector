@@ -7,8 +7,8 @@ function splitByFormat() {
     fs.createReadStream('resources/resources.csv')
         .pipe(csv({ delimiter: ',' }))
         .on('data', (data) => {
-            if(data.format in types) {
-                types[data.format].push(data)
+            if(data.type in types) {
+                types[data.type].push(data)
             }
             else {
                 types.others.push(data)

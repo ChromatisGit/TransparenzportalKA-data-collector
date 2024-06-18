@@ -1,4 +1,4 @@
-package,title,url,format,id
+package,name,source,type,id
 aktionsplan-city-2020-2026,Aktionsplan City 2020 - 2026,https://web6.karlsruhe.de/Stadtentwicklung/PDF/2020/2020-Aktionsplan-City-2020-2026.pdf,PDF,ca51c510-e159-4147-ae54-cebdd1aae877
 allgemeinbildende-schulen,Schülerinnen und Schüler insgesamt,https://transparenz.karlsruhe.de/dataset/3ce2c581-b9d8-4d58-b4e9-e656779d041c/resource/de830f9b-e610-4afd-aafa-e71f8d9b7dc3/download/allgemeinbildende-schulen-schulerinnen-und-schuler-insgesamt.csv,CSV,de830f9b-e610-4afd-aafa-e71f8d9b7dc3
 allgemeinbildende-schulen,Grundschulen,https://transparenz.karlsruhe.de/dataset/3ce2c581-b9d8-4d58-b4e9-e656779d041c/resource/607e618b-d89a-42e9-bfe5-b7bf4b784b28/download/allgemeinbildende-schulen-grundschulen.csv,CSV,607e618b-d89a-42e9-bfe5-b7bf4b784b28

@@ -1,170 +1,170 @@
 [
   {
     "package": "arbeitsmarkt",
-    "title": "Statistik zum Arbeitsmarkt in Karlsruhe",
-    "url": "https://statistik.arbeitsagentur.de/Auswahl/raeumlicher-Geltungsbereich/Politische-Gebietsstruktur/Kreise/Baden-Wuerttemberg/08212-Karlsruhe-Stadt.html",
-    "format": "HTML",
+    "name": "Statistik zum Arbeitsmarkt in Karlsruhe",
+    "source": "https://statistik.arbeitsagentur.de/Auswahl/raeumlicher-Geltungsbereich/Politische-Gebietsstruktur/Kreise/Baden-Wuerttemberg/08212-Karlsruhe-Stadt.html",
+    "type": "HTML",
     "id": "30fa2051-78e4-447e-b91d-3cd603496a6f"
   },
   {
     "package": "daten-des-haushaltsplans-2021",
-    "title": "Produktplan BW",
-    "url": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fnkhr-bw.komm.one%2Fsite%2FKomm-ONE_NKHR%2Fget%2Fparams_E-1979163002%2F17174691%2F2020-05-01%2520Produktplan%2520BW.docx&wdOrigin=BROWSELINK",
-    "format": "word",
+    "name": "Produktplan BW",
+    "source": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fnkhr-bw.komm.one%2Fsite%2FKomm-ONE_NKHR%2Fget%2Fparams_E-1979163002%2F17174691%2F2020-05-01%2520Produktplan%2520BW.docx&wdOrigin=BROWSELINK",
+    "type": "word",
     "id": "1057acaa-b588-437e-93c3-508a2fd4b8cd"
   },
   {
     "package": "daten-des-haushaltsplans-2022-2023",
-    "title": "Kommunaler Produktplan Baden-Württemberg",
-    "url": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fnkhr-bw.komm.one%2Fsite%2FKomm-ONE_NKHR%2Fget%2Fparams_E-1979163002%2F17174691%2F2020-05-01%2520Produktplan%2520BW.docx&wdOrigin=BROWSELINK",
-    "format": "Word",
+    "name": "Kommunaler Produktplan Baden-Württemberg",
+    "source": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fnkhr-bw.komm.one%2Fsite%2FKomm-ONE_NKHR%2Fget%2Fparams_E-1979163002%2F17174691%2F2020-05-01%2520Produktplan%2520BW.docx&wdOrigin=BROWSELINK",
+    "type": "Word",
     "id": "d44bde24-3fdd-41d7-ac02-e8eca333df0b"
   },
   {
     "package": "daten-des-haushaltsplans-2022-2023",
-    "title": "Kontenrahmen mit Zuordnungshinweisen Baden-Württemberg",
-    "url": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fnkhr-bw.komm.one%2Fsite%2FKomm-ONE_NKHR%2Fget%2Fparams_E-185000277%2F20751865%2FAnlage_31.2_Kontenrahmen_mit_Zuordnungshinweisen.XLSX&wdOrigin=BROWSELINK",
-    "format": "XLS",
+    "name": "Kontenrahmen mit Zuordnungshinweisen Baden-Württemberg",
+    "source": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fnkhr-bw.komm.one%2Fsite%2FKomm-ONE_NKHR%2Fget%2Fparams_E-185000277%2F20751865%2FAnlage_31.2_Kontenrahmen_mit_Zuordnungshinweisen.XLSX&wdOrigin=BROWSELINK",
+    "type": "XLS",
     "id": "3967aa14-6f53-4e8a-b063-00005a19e098"
   },
   {
     "package": "europawahl-2019",
-    "title": "Karlsruher Wahlatlas",
-    "url": "https://web6.karlsruhe.de/Stadtentwicklung/statistik/wahlatlas-eu/?select=Karlsruhe&date=2019",
-    "format": "",
+    "name": "Karlsruher Wahlatlas",
+    "source": "https://web6.karlsruhe.de/Stadtentwicklung/statistik/wahlatlas-eu/?select=Karlsruhe&date=2019",
+    "type": "",
     "id": "30fd2bd8-9607-48d2-a5da-41b9291afa9b"
   },
   {
     "package": "geschwindigkeitsmessungen",
-    "title": "aktuelle Geschwindigkeitsmessungen",
-    "url": "https://www.karlsruhe.de/stadt-rathaus/service-buergerinformation/sicherheit-ordnung/geschwindigkeitsmessungen",
-    "format": "HTML",
+    "name": "aktuelle Geschwindigkeitsmessungen",
+    "source": "https://www.karlsruhe.de/stadt-rathaus/service-buergerinformation/sicherheit-ordnung/geschwindigkeitsmessungen",
+    "type": "HTML",
     "id": "d4e6714d-3201-4d41-958c-ace5f7e2aa6e"
   },
   {
     "package": "haushaltsplan-daten-2017-2018",
-    "title": "Ortsteilhaushalte",
-    "url": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/2ffe91e6-92e6-4c27-8661-992927d63e55/download/ortsteilhaushalte-2017-2018.zip",
-    "format": "ZIP",
+    "name": "Ortsteilhaushalte",
+    "source": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/2ffe91e6-92e6-4c27-8661-992927d63e55/download/ortsteilhaushalte-2017-2018.zip",
+    "type": "ZIP",
     "id": "2ffe91e6-92e6-4c27-8661-992927d63e55"
   },
   {
     "package": "karlsruher-mietspiegel",
-    "title": "Mietspiegelrechner für Einfamilienhäuser 2023/24",
-    "url": "https://web6.karlsruhe.de/Stadtentwicklung/statistik/mietspiegelrechner/mietspiegel-efh-2023.html",
-    "format": "HTML",
+    "name": "Mietspiegelrechner für Einfamilienhäuser 2023/24",
+    "source": "https://web6.karlsruhe.de/Stadtentwicklung/statistik/mietspiegelrechner/mietspiegel-efh-2023.html",
+    "type": "HTML",
     "id": "a73cda70-e38f-4f6b-9d7a-d1a004f8cc0d"
   },
   {
     "package": "karlsruher-mietspiegel",
-    "title": "Mietspiegelrechner für Wohnungen 2023/24",
-    "url": "https://web6.karlsruhe.de/Stadtentwicklung/statistik/mietspiegelrechner/mietspiegel-2023.html",
-    "format": "HTML",
+    "name": "Mietspiegelrechner für Wohnungen 2023/24",
+    "source": "https://web6.karlsruhe.de/Stadtentwicklung/statistik/mietspiegelrechner/mietspiegel-2023.html",
+    "type": "HTML",
     "id": "c867155b-5f28-4d25-882e-422fb3ae18aa"
   },
   {
     "package": "klimaschutzkonzept-karlsruhe-2030",
-    "title": "Bürgerbeteiligung",
-    "url": "https://beteiligung.karlsruhe.de/content/bbv/details/90/?tab=3",
-    "format": "",
+    "name": "Bürgerbeteiligung",
+    "source": "https://beteiligung.karlsruhe.de/content/bbv/details/90/?tab=3",
+    "type": "",
     "id": "413195b0-b91d-4a84-95c8-a64ad32a627c"
   },
   {
     "package": "klimaschutzkonzept-karlsruhe-2030",
-    "title": "Energie- und Treibhausgasbilanz der Stadt Karlsruhe",
-    "url": "https://web1.karlsruhe.de/transparenz/index.html",
-    "format": "HTML",
+    "name": "Energie- und Treibhausgasbilanz der Stadt Karlsruhe",
+    "source": "https://web1.karlsruhe.de/transparenz/index.html",
+    "type": "HTML",
     "id": "fa00e9a8-11a5-402b-90d0-e7858497ae8d"
   },
   {
     "package": "klimaschutzkonzept-karlsruhe-2030",
-    "title": "Ergebnisse aus dem Gemeinderat",
-    "url": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-5664",
-    "format": "",
+    "name": "Ergebnisse aus dem Gemeinderat",
+    "source": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-5664",
+    "type": "",
     "id": "c3aee4d0-4615-4538-af52-0574864763fe"
   },
   {
     "package": "kvv-fahrplandaten",
-    "title": "Fahrplandaten",
-    "url": "https://projekte.kvv-efa.de/GTFS/google_transit.zip",
-    "format": "GTFS",
+    "name": "Fahrplandaten",
+    "source": "https://projekte.kvv-efa.de/GTFS/google_transit.zip",
+    "type": "GTFS",
     "id": "1fda1bc7-87ac-4695-b366-ca56845a2d26"
   },
   {
     "package": "landtagswahl-2021",
-    "title": "Landtagswahl_BW2021_ErgebnisGrafik",
-    "url": "https://wahlergebnisse.komm.one/lb/produktion/wahltermin-20210314/08212000/html5/index.html",
-    "format": "HTML",
+    "name": "Landtagswahl_BW2021_ErgebnisGrafik",
+    "source": "https://wahlergebnisse.komm.one/lb/produktion/wahltermin-20210314/08212000/html5/index.html",
+    "type": "HTML",
     "id": "54f986c7-dc02-4b81-b817-1017d65e3df9"
   },
   {
     "package": "meteorologische-daten-und-klimadaten-fur-den-raum-karlsruhe",
-    "title": "Extremwerte",
-    "url": "https://wetterdienstleistungen.de/Stadt_Karlsruhe/ergebnis.xlsx",
-    "format": "XLS",
+    "name": "Extremwerte",
+    "source": "https://wetterdienstleistungen.de/Stadt_Karlsruhe/ergebnis.xlsx",
+    "type": "XLS",
     "id": "fc671591-94df-4133-a816-f543a4fafb58"
   },
   {
     "package": "meteorologische-daten-und-klimadaten-fur-den-raum-karlsruhe",
-    "title": "Mittelwerte Rheinstetten",
-    "url": "https://wetterdienstleistungen.de/Stadt_Karlsruhe/mittelwerte_RH.json",
-    "format": "JSON",
+    "name": "Mittelwerte Rheinstetten",
+    "source": "https://wetterdienstleistungen.de/Stadt_Karlsruhe/mittelwerte_RH.json",
+    "type": "JSON",
     "id": "31df97cf-733e-4749-aacb-6c9ded4d5036"
   },
   {
     "package": "meteorologische-daten-und-klimadaten-fur-den-raum-karlsruhe",
-    "title": "Extremwerte Monate/Jahr",
-    "url": "https://wetterdienstleistungen.de/Stadt_Karlsruhe/extrem_monate_jahr.json",
-    "format": "JSON",
+    "name": "Extremwerte Monate/Jahr",
+    "source": "https://wetterdienstleistungen.de/Stadt_Karlsruhe/extrem_monate_jahr.json",
+    "type": "JSON",
     "id": "3345d78c-c358-40c1-933d-44d6b94fbc23"
   },
   {
     "package": "meteorologische-daten-und-klimadaten-fur-den-raum-karlsruhe",
-    "title": "Extremwerte Tage",
-    "url": "https://wetterdienstleistungen.de/Stadt_Karlsruhe/extrem_tage.json",
-    "format": "JSON",
+    "name": "Extremwerte Tage",
+    "source": "https://wetterdienstleistungen.de/Stadt_Karlsruhe/extrem_tage.json",
+    "type": "JSON",
     "id": "b43283ee-eb6a-41cf-b8c3-a1f1d0875ea8"
   },
   {
     "package": "nachhaltigkeit-in-karlsruhe",
-    "title": "Agenda 2030",
-    "url": "https://geoportal.karlsruhe.de/agenda2030/",
-    "format": "HTML",
+    "name": "Agenda 2030",
+    "source": "https://geoportal.karlsruhe.de/agenda2030/",
+    "type": "HTML",
     "id": "ac0a2a10-0051-4793-b1ce-420ef3d0990d"
   },
   {
     "package": "points-of-interest-kultur1",
-    "title": "Kulturdenkmale",
-    "url": "https://web1.karlsruhe.de/db/kulturdenkmale/kulturdenkmale.json",
-    "format": "JSON",
+    "name": "Kulturdenkmale",
+    "source": "https://web1.karlsruhe.de/db/kulturdenkmale/kulturdenkmale.json",
+    "type": "JSON",
     "id": "63523d53-4bb1-4a0e-a5ed-6065bcb7c418"
   },
   {
     "package": "points-of-interest-senioren1",
-    "title": "Pflegeheime",
-    "url": "https://web1.karlsruhe.de/db/pflegeheime/pflegeheime.json",
-    "format": "JSON",
+    "name": "Pflegeheime",
+    "source": "https://web1.karlsruhe.de/db/pflegeheime/pflegeheime.json",
+    "type": "JSON",
     "id": "508aa85b-a464-481d-8715-f1675775b395"
   },
   {
     "package": "ratsinformationen",
-    "title": "Ratsinformationssystem",
-    "url": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/start",
-    "format": "",
+    "name": "Ratsinformationssystem",
+    "source": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/start",
+    "type": "",
     "id": "9909e91d-ebe8-45bd-9c9c-7cf7b36d8366"
   },
   {
     "package": "sportvereine-in-ka",
-    "title": "Sportvereine in Karlsruhe",
-    "url": "https://web1.karlsruhe.de/db/sportvereine/sportvereine.json",
-    "format": "JSON",
+    "name": "Sportvereine in Karlsruhe",
+    "source": "https://web1.karlsruhe.de/db/sportvereine/sportvereine.json",
+    "type": "JSON",
     "id": "23bdf35d-5f90-4986-81b4-c2c496c6826f"
   },
   {
     "package": "veranstaltungskalender-stadt-karlsruhe",
-    "title": "RSS-Feed",
-    "url": "https://kalender.karlsruhe.de/db/termine/rss",
-    "format": "RSS",
+    "name": "RSS-Feed",
+    "source": "https://kalender.karlsruhe.de/db/termine/rss",
+    "type": "RSS",
     "id": "2fc2280c-af6b-41f7-8304-930dd4fe3e52"
   }
 ]

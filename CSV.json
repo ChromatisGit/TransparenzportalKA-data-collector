@@ -1,1122 +1,1122 @@
 [
   {
     "package": "allgemeinbildende-schulen",
-    "title": "Schülerinnen und Schüler insgesamt",
-    "url": "https://transparenz.karlsruhe.de/dataset/3ce2c581-b9d8-4d58-b4e9-e656779d041c/resource/de830f9b-e610-4afd-aafa-e71f8d9b7dc3/download/allgemeinbildende-schulen-schulerinnen-und-schuler-insgesamt.csv",
-    "format": "CSV",
+    "name": "Schülerinnen und Schüler insgesamt",
+    "source": "https://transparenz.karlsruhe.de/dataset/3ce2c581-b9d8-4d58-b4e9-e656779d041c/resource/de830f9b-e610-4afd-aafa-e71f8d9b7dc3/download/allgemeinbildende-schulen-schulerinnen-und-schuler-insgesamt.csv",
+    "type": "CSV",
     "id": "de830f9b-e610-4afd-aafa-e71f8d9b7dc3"
   },
   {
     "package": "allgemeinbildende-schulen",
-    "title": "Grundschulen",
-    "url": "https://transparenz.karlsruhe.de/dataset/3ce2c581-b9d8-4d58-b4e9-e656779d041c/resource/607e618b-d89a-42e9-bfe5-b7bf4b784b28/download/allgemeinbildende-schulen-grundschulen.csv",
-    "format": "CSV",
+    "name": "Grundschulen",
+    "source": "https://transparenz.karlsruhe.de/dataset/3ce2c581-b9d8-4d58-b4e9-e656779d041c/resource/607e618b-d89a-42e9-bfe5-b7bf4b784b28/download/allgemeinbildende-schulen-grundschulen.csv",
+    "type": "CSV",
     "id": "607e618b-d89a-42e9-bfe5-b7bf4b784b28"
   },
   {
     "package": "allgemeinbildende-schulen",
-    "title": "Gemeinschaftsschulen (nur Sekundarstufe I)",
-    "url": "https://transparenz.karlsruhe.de/dataset/3ce2c581-b9d8-4d58-b4e9-e656779d041c/resource/2c7f968e-86bf-44ac-b45e-7c3943990476/download/allgemeinbildende-schulen-gemeinschaftsschulen-nur-sekundarstufe-i.csv",
-    "format": "CSV",
+    "name": "Gemeinschaftsschulen (nur Sekundarstufe I)",
+    "source": "https://transparenz.karlsruhe.de/dataset/3ce2c581-b9d8-4d58-b4e9-e656779d041c/resource/2c7f968e-86bf-44ac-b45e-7c3943990476/download/allgemeinbildende-schulen-gemeinschaftsschulen-nur-sekundarstufe-i.csv",
+    "type": "CSV",
     "id": "2c7f968e-86bf-44ac-b45e-7c3943990476"
   },
   {
     "package": "allgemeinbildende-schulen",
-    "title": "Realschulen",
-    "url": "https://transparenz.karlsruhe.de/dataset/3ce2c581-b9d8-4d58-b4e9-e656779d041c/resource/c93d37d8-2fdb-4e2c-97de-a5eded70af58/download/allgemeinbildende-schulen-realschulen.csv",
-    "format": "CSV",
+    "name": "Realschulen",
+    "source": "https://transparenz.karlsruhe.de/dataset/3ce2c581-b9d8-4d58-b4e9-e656779d041c/resource/c93d37d8-2fdb-4e2c-97de-a5eded70af58/download/allgemeinbildende-schulen-realschulen.csv",
+    "type": "CSV",
     "id": "c93d37d8-2fdb-4e2c-97de-a5eded70af58"
   },
   {
     "package": "allgemeinbildende-schulen",
-    "title": "Sonderpädagogische Bildungs- und Beratungszentren (SBBZ - Sonder-/Förderschulen)",
-    "url": "https://transparenz.karlsruhe.de/dataset/3ce2c581-b9d8-4d58-b4e9-e656779d041c/resource/4d682cab-33e1-48ce-b947-91143eca1344/download/allgemeinbildende-schulen-sonderpadagogische-bildungs-und-beratungszentren-sbbz-sonder-fordersch.csv",
-    "format": "CSV",
+    "name": "Sonderpädagogische Bildungs- und Beratungszentren (SBBZ - Sonder-/Förderschulen)",
+    "source": "https://transparenz.karlsruhe.de/dataset/3ce2c581-b9d8-4d58-b4e9-e656779d041c/resource/4d682cab-33e1-48ce-b947-91143eca1344/download/allgemeinbildende-schulen-sonderpadagogische-bildungs-und-beratungszentren-sbbz-sonder-fordersch.csv",
+    "type": "CSV",
     "id": "4d682cab-33e1-48ce-b947-91143eca1344"
   },
   {
     "package": "allgemeinbildende-schulen",
-    "title": "Gymnasien",
-    "url": "https://transparenz.karlsruhe.de/dataset/3ce2c581-b9d8-4d58-b4e9-e656779d041c/resource/6f1f000e-ff6f-4b4f-aa8a-77956797e91f/download/allgemeinbildende-schulen-gymnasien.csv",
-    "format": "CSV",
+    "name": "Gymnasien",
+    "source": "https://transparenz.karlsruhe.de/dataset/3ce2c581-b9d8-4d58-b4e9-e656779d041c/resource/6f1f000e-ff6f-4b4f-aa8a-77956797e91f/download/allgemeinbildende-schulen-gymnasien.csv",
+    "type": "CSV",
     "id": "6f1f000e-ff6f-4b4f-aa8a-77956797e91f"
   },
   {
     "package": "allgemeinbildende-schulen",
-    "title": "Werkrealschulen",
-    "url": "https://transparenz.karlsruhe.de/dataset/3ce2c581-b9d8-4d58-b4e9-e656779d041c/resource/b0807118-2928-493c-b4c4-5336e67a2f5b/download/allgemeinbildende-schulen-werkrealschulen.csv",
-    "format": "CSV",
+    "name": "Werkrealschulen",
+    "source": "https://transparenz.karlsruhe.de/dataset/3ce2c581-b9d8-4d58-b4e9-e656779d041c/resource/b0807118-2928-493c-b4c4-5336e67a2f5b/download/allgemeinbildende-schulen-werkrealschulen.csv",
+    "type": "CSV",
     "id": "b0807118-2928-493c-b4c4-5336e67a2f5b"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "Unter 3 Jährige nach Geschlecht",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/565c1c6e-a50c-46d2-8638-22896d21096f/download/altersstruktur-der-bevolkerung-unter-3-jahrige-nach-geschlecht.csv",
-    "format": "CSV",
+    "name": "Unter 3 Jährige nach Geschlecht",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/565c1c6e-a50c-46d2-8638-22896d21096f/download/altersstruktur-der-bevolkerung-unter-3-jahrige-nach-geschlecht.csv",
+    "type": "CSV",
     "id": "565c1c6e-a50c-46d2-8638-22896d21096f"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "Unter 3 Jährige nach Geschlecht (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/32bd3b93-7008-42a4-9736-bb83e726beb7/download/altersstruktur-der-bevolkerung-unter-3-jahrige-nach-geschlecht-anteil.csv",
-    "format": "CSV",
+    "name": "Unter 3 Jährige nach Geschlecht (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/32bd3b93-7008-42a4-9736-bb83e726beb7/download/altersstruktur-der-bevolkerung-unter-3-jahrige-nach-geschlecht-anteil.csv",
+    "type": "CSV",
     "id": "32bd3b93-7008-42a4-9736-bb83e726beb7"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "3 bis unter 6 Jährige nach Geschlecht (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/a92cd46b-7243-46f6-ac72-4fa3dcdeb35f/download/altersstruktur-der-bevolkerung-3-bis-unter-6-jahrige-nach-geschlecht-anteil.csv",
-    "format": "CSV",
+    "name": "3 bis unter 6 Jährige nach Geschlecht (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/a92cd46b-7243-46f6-ac72-4fa3dcdeb35f/download/altersstruktur-der-bevolkerung-3-bis-unter-6-jahrige-nach-geschlecht-anteil.csv",
+    "type": "CSV",
     "id": "a92cd46b-7243-46f6-ac72-4fa3dcdeb35f"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "6 bis unter 15 Jährige nach Geschlecht (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/807eda39-ace2-4269-9b6a-00a607a4a615/download/altersstruktur-der-bevolkerung-6-bis-unter-15-jahrige-nach-geschlecht-anteil.csv",
-    "format": "CSV",
+    "name": "6 bis unter 15 Jährige nach Geschlecht (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/807eda39-ace2-4269-9b6a-00a607a4a615/download/altersstruktur-der-bevolkerung-6-bis-unter-15-jahrige-nach-geschlecht-anteil.csv",
+    "type": "CSV",
     "id": "807eda39-ace2-4269-9b6a-00a607a4a615"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "3 bis unter 6 Jährige nach Geschlecht",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/c74cb50a-e3c4-43bf-950f-6a01a783791b/download/altersstruktur-der-bevolkerung-3-bis-unter-6-jahrige-nach-geschlecht.csv",
-    "format": "CSV",
+    "name": "3 bis unter 6 Jährige nach Geschlecht",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/c74cb50a-e3c4-43bf-950f-6a01a783791b/download/altersstruktur-der-bevolkerung-3-bis-unter-6-jahrige-nach-geschlecht.csv",
+    "type": "CSV",
     "id": "c74cb50a-e3c4-43bf-950f-6a01a783791b"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "6 bis unter 15 Jährige nach Geschlecht",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/593b2d5f-36bf-4f50-ac49-763ee5cadb1f/download/altersstruktur-der-bevolkerung-6-bis-unter-15-jahrige-nach-geschlecht.csv",
-    "format": "CSV",
+    "name": "6 bis unter 15 Jährige nach Geschlecht",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/593b2d5f-36bf-4f50-ac49-763ee5cadb1f/download/altersstruktur-der-bevolkerung-6-bis-unter-15-jahrige-nach-geschlecht.csv",
+    "type": "CSV",
     "id": "593b2d5f-36bf-4f50-ac49-763ee5cadb1f"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "15 bis unter 18 Jährige nach Geschlecht",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/72110d58-727f-4e04-a68d-2a907ba7d4fb/download/altersstruktur-der-bevolkerung-15-bis-unter-18-jahrige-nach-geschlecht.csv",
-    "format": "CSV",
+    "name": "15 bis unter 18 Jährige nach Geschlecht",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/72110d58-727f-4e04-a68d-2a907ba7d4fb/download/altersstruktur-der-bevolkerung-15-bis-unter-18-jahrige-nach-geschlecht.csv",
+    "type": "CSV",
     "id": "72110d58-727f-4e04-a68d-2a907ba7d4fb"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "18 bis unter 25 Jährige nach Geschlecht (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/c604d6d8-66bd-4175-8689-e657429127b0/download/altersstruktur-der-bevolkerung-18-bis-unter-25-jahrige-nach-geschlecht-anteil.csv",
-    "format": "CSV",
+    "name": "18 bis unter 25 Jährige nach Geschlecht (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/c604d6d8-66bd-4175-8689-e657429127b0/download/altersstruktur-der-bevolkerung-18-bis-unter-25-jahrige-nach-geschlecht-anteil.csv",
+    "type": "CSV",
     "id": "c604d6d8-66bd-4175-8689-e657429127b0"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "15 bis unter 18 Jährige nach Geschlecht (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/9fd0555a-327c-4e65-8693-521c7b7fb350/download/altersstruktur-der-bevolkerung-15-bis-unter-18-jahrige-nach-geschlecht-anteil.csv",
-    "format": "CSV",
+    "name": "15 bis unter 18 Jährige nach Geschlecht (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/9fd0555a-327c-4e65-8693-521c7b7fb350/download/altersstruktur-der-bevolkerung-15-bis-unter-18-jahrige-nach-geschlecht-anteil.csv",
+    "type": "CSV",
     "id": "9fd0555a-327c-4e65-8693-521c7b7fb350"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "18 bis unter 25 Jährige nach Geschlecht",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/79797678-30ab-4ccf-bcf7-6067be9794c4/download/altersstruktur-der-bevolkerung-18-bis-unter-25-jahrige-nach-geschlecht.csv",
-    "format": "CSV",
+    "name": "18 bis unter 25 Jährige nach Geschlecht",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/79797678-30ab-4ccf-bcf7-6067be9794c4/download/altersstruktur-der-bevolkerung-18-bis-unter-25-jahrige-nach-geschlecht.csv",
+    "type": "CSV",
     "id": "79797678-30ab-4ccf-bcf7-6067be9794c4"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "25 bis unter 45 Jährige nach Geschlecht (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/7cff3291-8e9e-4c41-894a-71791ea55e37/download/altersstruktur-der-bevolkerung-25-bis-unter-45-jahrige-nach-geschlecht-anteil.csv",
-    "format": "CSV",
+    "name": "25 bis unter 45 Jährige nach Geschlecht (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/7cff3291-8e9e-4c41-894a-71791ea55e37/download/altersstruktur-der-bevolkerung-25-bis-unter-45-jahrige-nach-geschlecht-anteil.csv",
+    "type": "CSV",
     "id": "7cff3291-8e9e-4c41-894a-71791ea55e37"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "45 bis unter 65 Jährige nach Geschlecht",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/5114726f-cdce-4816-80f0-edc8c7786cab/download/altersstruktur-der-bevolkerung-45-bis-unter-65-jahrige-nach-geschlecht.csv",
-    "format": "CSV",
+    "name": "45 bis unter 65 Jährige nach Geschlecht",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/5114726f-cdce-4816-80f0-edc8c7786cab/download/altersstruktur-der-bevolkerung-45-bis-unter-65-jahrige-nach-geschlecht.csv",
+    "type": "CSV",
     "id": "5114726f-cdce-4816-80f0-edc8c7786cab"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "65 bis unter 75 Jährige nach Geschlecht",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/ea8303b4-0494-4f95-b624-f695753d1a2c/download/altersstruktur-der-bevolkerung-65-bis-unter-75-jahrige-nach-geschlecht.csv",
-    "format": "CSV",
+    "name": "65 bis unter 75 Jährige nach Geschlecht",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/ea8303b4-0494-4f95-b624-f695753d1a2c/download/altersstruktur-der-bevolkerung-65-bis-unter-75-jahrige-nach-geschlecht.csv",
+    "type": "CSV",
     "id": "ea8303b4-0494-4f95-b624-f695753d1a2c"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "45 bis unter 65 Jährige nach Geschlecht (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/bbb9dd88-ffff-4b95-b065-3d74973d4a7f/download/altersstruktur-der-bevolkerung-45-bis-unter-65-jahrige-nach-geschlecht-anteil.csv",
-    "format": "CSV",
+    "name": "45 bis unter 65 Jährige nach Geschlecht (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/bbb9dd88-ffff-4b95-b065-3d74973d4a7f/download/altersstruktur-der-bevolkerung-45-bis-unter-65-jahrige-nach-geschlecht-anteil.csv",
+    "type": "CSV",
     "id": "bbb9dd88-ffff-4b95-b065-3d74973d4a7f"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "75 bis unter 85 Jährige nach Geschlecht (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/a5b8df62-dbe2-43bb-94d9-c468648a565f/download/altersstruktur-der-bevolkerung-75-bis-unter-85-jahrige-nach-geschlecht-anteil.csv",
-    "format": "CSV",
+    "name": "75 bis unter 85 Jährige nach Geschlecht (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/a5b8df62-dbe2-43bb-94d9-c468648a565f/download/altersstruktur-der-bevolkerung-75-bis-unter-85-jahrige-nach-geschlecht-anteil.csv",
+    "type": "CSV",
     "id": "a5b8df62-dbe2-43bb-94d9-c468648a565f"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "75 bis unter 85 Jährige nach Geschlecht",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/2af3b5ef-d5da-404b-ac8d-c1fc78124e66/download/altersstruktur-der-bevolkerung-75-bis-unter-85-jahrige-nach-geschlecht.csv",
-    "format": "CSV",
+    "name": "75 bis unter 85 Jährige nach Geschlecht",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/2af3b5ef-d5da-404b-ac8d-c1fc78124e66/download/altersstruktur-der-bevolkerung-75-bis-unter-85-jahrige-nach-geschlecht.csv",
+    "type": "CSV",
     "id": "2af3b5ef-d5da-404b-ac8d-c1fc78124e66"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "85 und mehr Jährigen nach Geschlecht (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/dd5adbd5-bd8b-4a14-b685-198aa4cca1f9/download/altersstruktur-der-bevolkerung-85-und-mehr-jahrigen-nach-geschlecht-anteil.csv",
-    "format": "CSV",
+    "name": "85 und mehr Jährigen nach Geschlecht (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/dd5adbd5-bd8b-4a14-b685-198aa4cca1f9/download/altersstruktur-der-bevolkerung-85-und-mehr-jahrigen-nach-geschlecht-anteil.csv",
+    "type": "CSV",
     "id": "dd5adbd5-bd8b-4a14-b685-198aa4cca1f9"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "85 und mehr Jährigen nach Geschlecht",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/2b8abad2-16c2-4e52-afbc-d57a9d252e89/download/altersstruktur-der-bevolkerung-85-und-mehr-jahrigen-nach-geschlecht.csv",
-    "format": "CSV",
+    "name": "85 und mehr Jährigen nach Geschlecht",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/2b8abad2-16c2-4e52-afbc-d57a9d252e89/download/altersstruktur-der-bevolkerung-85-und-mehr-jahrigen-nach-geschlecht.csv",
+    "type": "CSV",
     "id": "2b8abad2-16c2-4e52-afbc-d57a9d252e89"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "Unter 20 Jährige",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/c952a134-caa0-42b9-b482-204bba736e4c/download/altersstruktur-der-bevolkerung-unter-20-jahrige.csv",
-    "format": "CSV",
+    "name": "Unter 20 Jährige",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/c952a134-caa0-42b9-b482-204bba736e4c/download/altersstruktur-der-bevolkerung-unter-20-jahrige.csv",
+    "type": "CSV",
     "id": "c952a134-caa0-42b9-b482-204bba736e4c"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "Zwischen 20 und unter 65 Jährige",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/da54e683-f5d9-4f57-8efe-e5f88dada06f/download/altersstruktur-der-bevolkerung-zwischen-20-und-unter-65-jahrige.csv",
-    "format": "CSV",
+    "name": "Zwischen 20 und unter 65 Jährige",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/da54e683-f5d9-4f57-8efe-e5f88dada06f/download/altersstruktur-der-bevolkerung-zwischen-20-und-unter-65-jahrige.csv",
+    "type": "CSV",
     "id": "da54e683-f5d9-4f57-8efe-e5f88dada06f"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "65 bis unter 75 Jährige nach Geschlecht (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/4d9dd7d7-9b4d-4ece-86a8-a087ffc38cb3/download/altersstruktur-der-bevolkerung-65-bis-unter-75-jahrige-nach-geschlecht-anteil.csv",
-    "format": "CSV",
+    "name": "65 bis unter 75 Jährige nach Geschlecht (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/4d9dd7d7-9b4d-4ece-86a8-a087ffc38cb3/download/altersstruktur-der-bevolkerung-65-bis-unter-75-jahrige-nach-geschlecht-anteil.csv",
+    "type": "CSV",
     "id": "4d9dd7d7-9b4d-4ece-86a8-a087ffc38cb3"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "65 Jährige und Ältere",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/9b34d206-c2cd-41b6-8ed0-f817cc69dd11/download/altersstruktur-der-bevolkerung-65-jahrige-und-altere.csv",
-    "format": "CSV",
+    "name": "65 Jährige und Ältere",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/9b34d206-c2cd-41b6-8ed0-f817cc69dd11/download/altersstruktur-der-bevolkerung-65-jahrige-und-altere.csv",
+    "type": "CSV",
     "id": "9b34d206-c2cd-41b6-8ed0-f817cc69dd11"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "25 bis unter 45 Jährige nach Geschlecht",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/49eeae6e-98d4-46c7-bec3-a92e79b2c275/download/altersstruktur-der-bevolkerung-25-bis-unter-45-jahrige-nach-geschlecht.csv",
-    "format": "CSV",
+    "name": "25 bis unter 45 Jährige nach Geschlecht",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/49eeae6e-98d4-46c7-bec3-a92e79b2c275/download/altersstruktur-der-bevolkerung-25-bis-unter-45-jahrige-nach-geschlecht.csv",
+    "type": "CSV",
     "id": "49eeae6e-98d4-46c7-bec3-a92e79b2c275"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "Jugendquotient",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/c3d707e4-c89a-4c43-ac06-fe8fdf1fd405/download/altersstruktur-der-bevolkerung-jugendquotient.csv",
-    "format": "CSV",
+    "name": "Jugendquotient",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/c3d707e4-c89a-4c43-ac06-fe8fdf1fd405/download/altersstruktur-der-bevolkerung-jugendquotient.csv",
+    "type": "CSV",
     "id": "c3d707e4-c89a-4c43-ac06-fe8fdf1fd405"
   },
   {
     "package": "altersstruktur-der-bevolkerung",
-    "title": "Altenquotient",
-    "url": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/7847b72d-1fd2-43a6-a611-907403ecdc99/download/altersstruktur-der-bevolkerung-altenquotient.csv",
-    "format": "CSV",
+    "name": "Altenquotient",
+    "source": "https://transparenz.karlsruhe.de/dataset/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59/resource/7847b72d-1fd2-43a6-a611-907403ecdc99/download/altersstruktur-der-bevolkerung-altenquotient.csv",
+    "type": "CSV",
     "id": "7847b72d-1fd2-43a6-a611-907403ecdc99"
   },
   {
     "package": "bevolkerung",
-    "title": "Wohnberechtigte Bevölkerung",
-    "url": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/71ef348f-0f5b-46a0-8250-e87aae9f91bd/download/bevolkerung-wohnberechtigte-bevolkerung.csv",
-    "format": "CSV",
+    "name": "Wohnberechtigte Bevölkerung",
+    "source": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/71ef348f-0f5b-46a0-8250-e87aae9f91bd/download/bevolkerung-wohnberechtigte-bevolkerung.csv",
+    "type": "CSV",
     "id": "71ef348f-0f5b-46a0-8250-e87aae9f91bd"
   },
   {
     "package": "bevolkerung",
-    "title": "Bevölkerung mit Hauptwohnung",
-    "url": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/d8be5f4a-0788-4ee3-abe5-b36313ce3799/download/bevolkerung-bevolkerung-mit-hauptwohnung.csv",
-    "format": "CSV",
+    "name": "Bevölkerung mit Hauptwohnung",
+    "source": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/d8be5f4a-0788-4ee3-abe5-b36313ce3799/download/bevolkerung-bevolkerung-mit-hauptwohnung.csv",
+    "type": "CSV",
     "id": "d8be5f4a-0788-4ee3-abe5-b36313ce3799"
   },
   {
     "package": "bevolkerung",
-    "title": "Anteil der Bevölkerung mit Hauptwohnung",
-    "url": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/026da0ed-7df8-4446-b4fb-e756c0dde2a5/download/bevolkerung-anteil-der-bevolkerung-mit-hauptwohnung.csv",
-    "format": "CSV",
+    "name": "Anteil der Bevölkerung mit Hauptwohnung",
+    "source": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/026da0ed-7df8-4446-b4fb-e756c0dde2a5/download/bevolkerung-anteil-der-bevolkerung-mit-hauptwohnung.csv",
+    "type": "CSV",
     "id": "026da0ed-7df8-4446-b4fb-e756c0dde2a5"
   },
   {
     "package": "bevolkerung",
-    "title": "Anteil der Bevölkerung mit Nebenwohnung",
-    "url": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/241f96ab-5bcc-43c5-91bd-bde8dc3e74f3/download/bevolkerung-anteil-der-bevolkerung-mit-nebenwohnung.csv",
-    "format": "CSV",
+    "name": "Anteil der Bevölkerung mit Nebenwohnung",
+    "source": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/241f96ab-5bcc-43c5-91bd-bde8dc3e74f3/download/bevolkerung-anteil-der-bevolkerung-mit-nebenwohnung.csv",
+    "type": "CSV",
     "id": "241f96ab-5bcc-43c5-91bd-bde8dc3e74f3"
   },
   {
     "package": "bevolkerung",
-    "title": "Frauen",
-    "url": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/85259275-a944-4357-aee5-b7451c2fce99/download/bevolkerung-frauen.csv",
-    "format": "CSV",
+    "name": "Frauen",
+    "source": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/85259275-a944-4357-aee5-b7451c2fce99/download/bevolkerung-frauen.csv",
+    "type": "CSV",
     "id": "85259275-a944-4357-aee5-b7451c2fce99"
   },
   {
     "package": "bevolkerung",
-    "title": "Frauenanteil",
-    "url": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/638f0166-3713-4497-a64e-5db0e07bbd9b/download/bevolkerung-frauenanteil.csv",
-    "format": "CSV",
+    "name": "Frauenanteil",
+    "source": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/638f0166-3713-4497-a64e-5db0e07bbd9b/download/bevolkerung-frauenanteil.csv",
+    "type": "CSV",
     "id": "638f0166-3713-4497-a64e-5db0e07bbd9b"
   },
   {
     "package": "bevolkerung",
-    "title": "Bevölkerung mit Nebenwohnung",
-    "url": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/8213c5d8-7b28-4f9e-ab97-a1bc6da9112f/download/bevolkerung-bevolkerung-mit-nebenwohnung.csv",
-    "format": "CSV",
+    "name": "Bevölkerung mit Nebenwohnung",
+    "source": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/8213c5d8-7b28-4f9e-ab97-a1bc6da9112f/download/bevolkerung-bevolkerung-mit-nebenwohnung.csv",
+    "type": "CSV",
     "id": "8213c5d8-7b28-4f9e-ab97-a1bc6da9112f"
   },
   {
     "package": "bevolkerung",
-    "title": "Bevölkerung mit sonstiger/keiner Religionszugehörigkeit",
-    "url": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/f2128444-47e7-40ba-ab1d-eb426e69c009/download/bevolkerung-bevolkerung-mit-sonstigerkeiner-religionszugehorigkeit.csv",
-    "format": "CSV",
+    "name": "Bevölkerung mit sonstiger/keiner Religionszugehörigkeit",
+    "source": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/f2128444-47e7-40ba-ab1d-eb426e69c009/download/bevolkerung-bevolkerung-mit-sonstigerkeiner-religionszugehorigkeit.csv",
+    "type": "CSV",
     "id": "f2128444-47e7-40ba-ab1d-eb426e69c009"
   },
   {
     "package": "bevolkerung",
-    "title": "Männer",
-    "url": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/d49eda6f-3c69-4fd9-8076-3689329e5711/download/bevolkerung-manner.csv",
-    "format": "CSV",
+    "name": "Männer",
+    "source": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/d49eda6f-3c69-4fd9-8076-3689329e5711/download/bevolkerung-manner.csv",
+    "type": "CSV",
     "id": "d49eda6f-3c69-4fd9-8076-3689329e5711"
   },
   {
     "package": "bevolkerung",
-    "title": "Katholische Bevölkerung",
-    "url": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/ac2e81d4-7a1c-499b-89e4-22acd5cea109/download/bevolkerung-katholische-bevolkerung.csv",
-    "format": "CSV",
+    "name": "Katholische Bevölkerung",
+    "source": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/ac2e81d4-7a1c-499b-89e4-22acd5cea109/download/bevolkerung-katholische-bevolkerung.csv",
+    "type": "CSV",
     "id": "ac2e81d4-7a1c-499b-89e4-22acd5cea109"
   },
   {
     "package": "bevolkerung",
-    "title": "Männeranteil",
-    "url": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/168a04b0-c066-4314-8b78-db30959f46ef/download/bevolkerung-manneranteil.csv",
-    "format": "CSV",
+    "name": "Männeranteil",
+    "source": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/168a04b0-c066-4314-8b78-db30959f46ef/download/bevolkerung-manneranteil.csv",
+    "type": "CSV",
     "id": "168a04b0-c066-4314-8b78-db30959f46ef"
   },
   {
     "package": "bevolkerung",
-    "title": "Evangelische Bevölkerung",
-    "url": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/227edd1a-e547-4de6-b153-9294ebde4ba6/download/bevolkerung-evangelische-bevolkerung.csv",
-    "format": "CSV",
+    "name": "Evangelische Bevölkerung",
+    "source": "https://transparenz.karlsruhe.de/dataset/74561f6a-4783-4d70-b86a-008deec09441/resource/227edd1a-e547-4de6-b153-9294ebde4ba6/download/bevolkerung-evangelische-bevolkerung.csv",
+    "type": "CSV",
     "id": "227edd1a-e547-4de6-b153-9294ebde4ba6"
   },
   {
     "package": "bevolkerungsbewegungen",
-    "title": "Geburtenüberschuss(+)/-defizit(-)",
-    "url": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/bceaadbd-5004-49ae-848f-b7a3dacc2f0c/download/bevolkerungsbewegungen-geburtenuberschuss-defizit-.csv",
-    "format": "CSV",
+    "name": "Geburtenüberschuss(+)/-defizit(-)",
+    "source": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/bceaadbd-5004-49ae-848f-b7a3dacc2f0c/download/bevolkerungsbewegungen-geburtenuberschuss-defizit-.csv",
+    "type": "CSV",
     "id": "bceaadbd-5004-49ae-848f-b7a3dacc2f0c"
   },
   {
     "package": "bevolkerungsbewegungen",
-    "title": "Zuzüge nach Geschlecht",
-    "url": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/63f40b50-56d9-4c35-aa82-7cd8ddbfad25/download/bevolkerungsbewegungen-zuzuge-nach-geschlecht.csv",
-    "format": "CSV",
+    "name": "Zuzüge nach Geschlecht",
+    "source": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/63f40b50-56d9-4c35-aa82-7cd8ddbfad25/download/bevolkerungsbewegungen-zuzuge-nach-geschlecht.csv",
+    "type": "CSV",
     "id": "63f40b50-56d9-4c35-aa82-7cd8ddbfad25"
   },
   {
     "package": "bevolkerungsbewegungen",
-    "title": "Geburten je 1000 Einwohner/-innen",
-    "url": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/5296efff-037d-4cbe-8d5a-fe3ccf17c528/download/bevolkerungsbewegungen-geburten-je-1000-einwohner-innen.csv",
-    "format": "CSV",
+    "name": "Geburten je 1000 Einwohner/-innen",
+    "source": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/5296efff-037d-4cbe-8d5a-fe3ccf17c528/download/bevolkerungsbewegungen-geburten-je-1000-einwohner-innen.csv",
+    "type": "CSV",
     "id": "5296efff-037d-4cbe-8d5a-fe3ccf17c528"
   },
   {
     "package": "bevolkerungsbewegungen",
-    "title": "Geburten nach Staatsangehörigkeit",
-    "url": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/9e50219d-83a2-4e57-887f-f21cf03c2a3c/download/bevolkerungsbewegungen-geburten-nach-staatsangehorigkeit.csv",
-    "format": "CSV",
+    "name": "Geburten nach Staatsangehörigkeit",
+    "source": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/9e50219d-83a2-4e57-887f-f21cf03c2a3c/download/bevolkerungsbewegungen-geburten-nach-staatsangehorigkeit.csv",
+    "type": "CSV",
     "id": "9e50219d-83a2-4e57-887f-f21cf03c2a3c"
   },
   {
     "package": "bevolkerungsbewegungen",
-    "title": "Wegzüge nach Geschlecht",
-    "url": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/66b5eb29-617c-4f67-8ffe-237d6836f14f/download/bevolkerungsbewegungen-wegzuge-nach-geschlecht.csv",
-    "format": "CSV",
+    "name": "Wegzüge nach Geschlecht",
+    "source": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/66b5eb29-617c-4f67-8ffe-237d6836f14f/download/bevolkerungsbewegungen-wegzuge-nach-geschlecht.csv",
+    "type": "CSV",
     "id": "66b5eb29-617c-4f67-8ffe-237d6836f14f"
   },
   {
     "package": "bevolkerungsbewegungen",
-    "title": "Wanderungssaldo je 1000 Einwohner/-innen",
-    "url": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/e3e69806-4903-44c4-a17d-bce2a940d3a0/download/bevolkerungsbewegungen-wanderungssaldo-je-1000-einwohner-innen.csv",
-    "format": "CSV",
+    "name": "Wanderungssaldo je 1000 Einwohner/-innen",
+    "source": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/e3e69806-4903-44c4-a17d-bce2a940d3a0/download/bevolkerungsbewegungen-wanderungssaldo-je-1000-einwohner-innen.csv",
+    "type": "CSV",
     "id": "e3e69806-4903-44c4-a17d-bce2a940d3a0"
   },
   {
     "package": "bevolkerungsbewegungen",
-    "title": "Wanderungssaldo Gewinn(+)/Verlust(-)",
-    "url": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/8dc0dc8e-6c17-4d98-b29e-5a08a1bb6509/download/bevolkerungsbewegungen-wanderungssaldo-gewinnverlust-.csv",
-    "format": "CSV",
+    "name": "Wanderungssaldo Gewinn(+)/Verlust(-)",
+    "source": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/8dc0dc8e-6c17-4d98-b29e-5a08a1bb6509/download/bevolkerungsbewegungen-wanderungssaldo-gewinnverlust-.csv",
+    "type": "CSV",
     "id": "8dc0dc8e-6c17-4d98-b29e-5a08a1bb6509"
   },
   {
     "package": "bevolkerungsbewegungen",
-    "title": "Wanderungsvolumen",
-    "url": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/b738c1c1-8b1f-4b3a-9d7c-ffaf74c12fc6/download/bevolkerungsbewegungen-wanderungsvolumen.csv",
-    "format": "CSV",
+    "name": "Wanderungsvolumen",
+    "source": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/b738c1c1-8b1f-4b3a-9d7c-ffaf74c12fc6/download/bevolkerungsbewegungen-wanderungsvolumen.csv",
+    "type": "CSV",
     "id": "b738c1c1-8b1f-4b3a-9d7c-ffaf74c12fc6"
   },
   {
     "package": "bevolkerungsbewegungen",
-    "title": "Zuzüge nach Staatsangehörigkeit",
-    "url": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/3d1c9c93-3bc6-44ba-bf48-bf0f9c0d1126/download/bevolkerungsbewegungen-zuzuge-nach-staatsangehorigkeit.csv",
-    "format": "CSV",
+    "name": "Zuzüge nach Staatsangehörigkeit",
+    "source": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/3d1c9c93-3bc6-44ba-bf48-bf0f9c0d1126/download/bevolkerungsbewegungen-zuzuge-nach-staatsangehorigkeit.csv",
+    "type": "CSV",
     "id": "3d1c9c93-3bc6-44ba-bf48-bf0f9c0d1126"
   },
   {
     "package": "bevolkerungsbewegungen",
-    "title": "Wegzüge nach Staatsangehörigkeit",
-    "url": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/1a9b69ef-b5e2-432f-8399-0d2c737bd320/download/bevolkerungsbewegungen-wegzuge-nach-staatsangehorigkeit.csv",
-    "format": "CSV",
+    "name": "Wegzüge nach Staatsangehörigkeit",
+    "source": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/1a9b69ef-b5e2-432f-8399-0d2c737bd320/download/bevolkerungsbewegungen-wegzuge-nach-staatsangehorigkeit.csv",
+    "type": "CSV",
     "id": "1a9b69ef-b5e2-432f-8399-0d2c737bd320"
   },
   {
     "package": "bevolkerungsbewegungen",
-    "title": "Wanderungsvolumen je 1000 Einwohner/-innen",
-    "url": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/d89f8702-30ac-4fb9-9f3a-ef1139e55365/download/bevolkerungsbewegungen-wanderungsvolumen-je-1000-einwohner-innen.csv",
-    "format": "CSV",
+    "name": "Wanderungsvolumen je 1000 Einwohner/-innen",
+    "source": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/d89f8702-30ac-4fb9-9f3a-ef1139e55365/download/bevolkerungsbewegungen-wanderungsvolumen-je-1000-einwohner-innen.csv",
+    "type": "CSV",
     "id": "d89f8702-30ac-4fb9-9f3a-ef1139e55365"
   },
   {
     "package": "bevolkerungsbewegungen",
-    "title": "Sterbefälle nach Geschlecht",
-    "url": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/68998f09-d2ce-428d-ac59-0b7baaa4a376/download/bevolkerungsbewegungen-sterbefalle-nach-geschlecht.csv",
-    "format": "CSV",
+    "name": "Sterbefälle nach Geschlecht",
+    "source": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/68998f09-d2ce-428d-ac59-0b7baaa4a376/download/bevolkerungsbewegungen-sterbefalle-nach-geschlecht.csv",
+    "type": "CSV",
     "id": "68998f09-d2ce-428d-ac59-0b7baaa4a376"
   },
   {
     "package": "bevolkerungsbewegungen",
-    "title": "Geburten nach Geschlecht",
-    "url": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/4eb21bba-693b-4b12-a15c-c0550ed6224d/download/bevolkerungsbewegungen-geburten-nach-geschlecht.csv",
-    "format": "CSV",
+    "name": "Geburten nach Geschlecht",
+    "source": "https://transparenz.karlsruhe.de/dataset/fdc3049d-14cf-4c14-b59a-1b82809242d5/resource/4eb21bba-693b-4b12-a15c-c0550ed6224d/download/bevolkerungsbewegungen-geburten-nach-geschlecht.csv",
+    "type": "CSV",
     "id": "4eb21bba-693b-4b12-a15c-c0550ed6224d"
   },
   {
     "package": "bundestagswahl-2013",
-    "title": "Ergebnisse und Statistiken",
-    "url": "https://transparenz.karlsruhe.de/dataset/0788d395-b5e4-4ca0-963d-99801ab4682c/resource/ae1bfdcc-2884-45b6-828c-56c3fe2b2f7a/download/bundestagswahl_2013.csv",
-    "format": "CSV",
+    "name": "Ergebnisse und Statistiken",
+    "source": "https://transparenz.karlsruhe.de/dataset/0788d395-b5e4-4ca0-963d-99801ab4682c/resource/ae1bfdcc-2884-45b6-828c-56c3fe2b2f7a/download/bundestagswahl_2013.csv",
+    "type": "CSV",
     "id": "ae1bfdcc-2884-45b6-828c-56c3fe2b2f7a"
   },
   {
     "package": "bundestagswahl-2013",
-    "title": "Parteien",
-    "url": "https://transparenz.karlsruhe.de/dataset/0788d395-b5e4-4ca0-963d-99801ab4682c/resource/f120ef9b-4aed-480b-9c67-c1301da2b34e/download/bundestagswahl_2013_parteien.csv",
-    "format": "CSV",
+    "name": "Parteien",
+    "source": "https://transparenz.karlsruhe.de/dataset/0788d395-b5e4-4ca0-963d-99801ab4682c/resource/f120ef9b-4aed-480b-9c67-c1301da2b34e/download/bundestagswahl_2013_parteien.csv",
+    "type": "CSV",
     "id": "f120ef9b-4aed-480b-9c67-c1301da2b34e"
   },
   {
     "package": "bundestagswahl-2017",
-    "title": "Ergebnisse (Stadtteile)",
-    "url": "https://transparenz.karlsruhe.de/dataset/389770de-7b1c-4736-9d96-8da132fc1d62/resource/62b3b78e-7357-49dc-beb7-5a72531abe45/download/bundestagswahl_2017_ergebnisse_stadtteile.csv",
-    "format": "CSV",
+    "name": "Ergebnisse (Stadtteile)",
+    "source": "https://transparenz.karlsruhe.de/dataset/389770de-7b1c-4736-9d96-8da132fc1d62/resource/62b3b78e-7357-49dc-beb7-5a72531abe45/download/bundestagswahl_2017_ergebnisse_stadtteile.csv",
+    "type": "CSV",
     "id": "62b3b78e-7357-49dc-beb7-5a72531abe45"
   },
   {
     "package": "bundestagswahl-2017",
-    "title": "Wahlbezirke nach Adresse",
-    "url": "https://transparenz.karlsruhe.de/dataset/389770de-7b1c-4736-9d96-8da132fc1d62/resource/00cb5ea4-9e4b-4697-9f0b-b4474bf13f89/download/bundestagswahl_2017_wahlbezirke.csv",
-    "format": "CSV",
+    "name": "Wahlbezirke nach Adresse",
+    "source": "https://transparenz.karlsruhe.de/dataset/389770de-7b1c-4736-9d96-8da132fc1d62/resource/00cb5ea4-9e4b-4697-9f0b-b4474bf13f89/download/bundestagswahl_2017_wahlbezirke.csv",
+    "type": "CSV",
     "id": "00cb5ea4-9e4b-4697-9f0b-b4474bf13f89"
   },
   {
     "package": "bundestagswahl-2017",
-    "title": "Ergebnisse (Wahlbezirke)",
-    "url": "https://transparenz.karlsruhe.de/dataset/389770de-7b1c-4736-9d96-8da132fc1d62/resource/780a08c7-938e-4615-8559-0d72acaf04e5/download/bundestagswahl_2017_ergebnisse_wahlbezirke.csv",
-    "format": "CSV",
+    "name": "Ergebnisse (Wahlbezirke)",
+    "source": "https://transparenz.karlsruhe.de/dataset/389770de-7b1c-4736-9d96-8da132fc1d62/resource/780a08c7-938e-4615-8559-0d72acaf04e5/download/bundestagswahl_2017_ergebnisse_wahlbezirke.csv",
+    "type": "CSV",
     "id": "780a08c7-938e-4615-8559-0d72acaf04e5"
   },
   {
     "package": "bundestagswahl-2017",
-    "title": "Parteien",
-    "url": "https://transparenz.karlsruhe.de/dataset/389770de-7b1c-4736-9d96-8da132fc1d62/resource/5bef54ed-393f-4944-9a37-19e2335ab488/download/bundestagswahl_2017_parteien.csv",
-    "format": "CSV",
+    "name": "Parteien",
+    "source": "https://transparenz.karlsruhe.de/dataset/389770de-7b1c-4736-9d96-8da132fc1d62/resource/5bef54ed-393f-4944-9a37-19e2335ab488/download/bundestagswahl_2017_parteien.csv",
+    "type": "CSV",
     "id": "5bef54ed-393f-4944-9a37-19e2335ab488"
   },
   {
     "package": "daten-des-haushaltsplans-2019-2020",
-    "title": "Finanzhaushalt",
-    "url": "https://transparenz.karlsruhe.de/dataset/ad6811bf-7b3d-48c3-ae6f-a92c3967fbdf/resource/e9f6ce98-a6a7-42fa-b728-9484e71998c0/download/ikvs_finrech_2019.csv",
-    "format": "CSV",
+    "name": "Finanzhaushalt",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad6811bf-7b3d-48c3-ae6f-a92c3967fbdf/resource/e9f6ce98-a6a7-42fa-b728-9484e71998c0/download/ikvs_finrech_2019.csv",
+    "type": "CSV",
     "id": "e9f6ce98-a6a7-42fa-b728-9484e71998c0"
   },
   {
     "package": "daten-des-haushaltsplans-2019-2020",
-    "title": "Ergebnishaushalt",
-    "url": "https://transparenz.karlsruhe.de/dataset/ad6811bf-7b3d-48c3-ae6f-a92c3967fbdf/resource/4ea38a76-d9ba-4679-b5a6-b6e980b3b255/download/ikvs_ergrech_2019.csv",
-    "format": "CSV",
+    "name": "Ergebnishaushalt",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad6811bf-7b3d-48c3-ae6f-a92c3967fbdf/resource/4ea38a76-d9ba-4679-b5a6-b6e980b3b255/download/ikvs_ergrech_2019.csv",
+    "type": "CSV",
     "id": "4ea38a76-d9ba-4679-b5a6-b6e980b3b255"
   },
   {
     "package": "daten-des-haushaltsplans-2019-2020",
-    "title": "Teilhaushalte",
-    "url": "https://transparenz.karlsruhe.de/dataset/ad6811bf-7b3d-48c3-ae6f-a92c3967fbdf/resource/a78b85c9-a9c8-4d2e-b844-cd98503c806e/download/teilhaushalte.csv",
-    "format": "CSV",
+    "name": "Teilhaushalte",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad6811bf-7b3d-48c3-ae6f-a92c3967fbdf/resource/a78b85c9-a9c8-4d2e-b844-cd98503c806e/download/teilhaushalte.csv",
+    "type": "CSV",
     "id": "a78b85c9-a9c8-4d2e-b844-cd98503c806e"
   },
   {
     "package": "daten-des-haushaltsplans-2021",
-    "title": "Ergebnisrechnung 2021",
-    "url": "https://transparenz.karlsruhe.de/dataset/3363a926-67d0-49f0-a47e-373eff46e663/resource/8da28863-97c0-446b-b17b-b17cceda4c24/download/ergrech_2021.csv",
-    "format": "CSV",
+    "name": "Ergebnisrechnung 2021",
+    "source": "https://transparenz.karlsruhe.de/dataset/3363a926-67d0-49f0-a47e-373eff46e663/resource/8da28863-97c0-446b-b17b-b17cceda4c24/download/ergrech_2021.csv",
+    "type": "CSV",
     "id": "8da28863-97c0-446b-b17b-b17cceda4c24"
   },
   {
     "package": "daten-des-haushaltsplans-2021",
-    "title": "Finanzrechnung 2021",
-    "url": "https://transparenz.karlsruhe.de/dataset/3363a926-67d0-49f0-a47e-373eff46e663/resource/8b0012b6-92e6-4fe3-a1e1-d49a8306e12a/download/finrech_2021.csv",
-    "format": "CSV",
+    "name": "Finanzrechnung 2021",
+    "source": "https://transparenz.karlsruhe.de/dataset/3363a926-67d0-49f0-a47e-373eff46e663/resource/8b0012b6-92e6-4fe3-a1e1-d49a8306e12a/download/finrech_2021.csv",
+    "type": "CSV",
     "id": "8b0012b6-92e6-4fe3-a1e1-d49a8306e12a"
   },
   {
     "package": "daten-des-haushaltsplans-2022-2023",
-    "title": "Finanzrechnung 2022",
-    "url": "https://transparenz.karlsruhe.de/dataset/40c8827d-b85d-42c4-8270-f498d13b3282/resource/f9e4a854-9d57-4263-bf15-8fca1dfd9271/download/ikvs_finrech_2022.csv",
-    "format": "CSV",
+    "name": "Finanzrechnung 2022",
+    "source": "https://transparenz.karlsruhe.de/dataset/40c8827d-b85d-42c4-8270-f498d13b3282/resource/f9e4a854-9d57-4263-bf15-8fca1dfd9271/download/ikvs_finrech_2022.csv",
+    "type": "CSV",
     "id": "f9e4a854-9d57-4263-bf15-8fca1dfd9271"
   },
   {
     "package": "daten-des-haushaltsplans-2022-2023",
-    "title": "Ergebnisrechnung 2022",
-    "url": "https://transparenz.karlsruhe.de/dataset/40c8827d-b85d-42c4-8270-f498d13b3282/resource/fff8e4ba-7b73-4b8a-b8fd-2b2cbeec8a70/download/ikvs_ergrech_2022.csv",
-    "format": "CSV",
+    "name": "Ergebnisrechnung 2022",
+    "source": "https://transparenz.karlsruhe.de/dataset/40c8827d-b85d-42c4-8270-f498d13b3282/resource/fff8e4ba-7b73-4b8a-b8fd-2b2cbeec8a70/download/ikvs_ergrech_2022.csv",
+    "type": "CSV",
     "id": "fff8e4ba-7b73-4b8a-b8fd-2b2cbeec8a70"
   },
   {
     "package": "europawahl-2019",
-    "title": "Ergebnisse Europawahl 2019",
-    "url": "https://transparenz.karlsruhe.de/dataset/ef7cca66-6d3f-4c97-99ba-03cfeec88018/resource/b97c9405-ecb8-42a8-9854-560d2f921531/download/karlsruhe-europawahl-2.csv",
-    "format": "CSV",
+    "name": "Ergebnisse Europawahl 2019",
+    "source": "https://transparenz.karlsruhe.de/dataset/ef7cca66-6d3f-4c97-99ba-03cfeec88018/resource/b97c9405-ecb8-42a8-9854-560d2f921531/download/karlsruhe-europawahl-2.csv",
+    "type": "CSV",
     "id": "b97c9405-ecb8-42a8-9854-560d2f921531"
   },
   {
     "package": "gebaudegroenstruktur",
-    "title": "Wohngebaudebestand",
-    "url": "https://transparenz.karlsruhe.de/dataset/74bf19a3-bf3a-43bf-947d-28b8fb5c80e5/resource/6e384bac-8ebc-4418-95ba-b43e343d9faa/download/gebaudegroenstruktur-wohngebaudebestand.csv",
-    "format": "CSV",
+    "name": "Wohngebaudebestand",
+    "source": "https://transparenz.karlsruhe.de/dataset/74bf19a3-bf3a-43bf-947d-28b8fb5c80e5/resource/6e384bac-8ebc-4418-95ba-b43e343d9faa/download/gebaudegroenstruktur-wohngebaudebestand.csv",
+    "type": "CSV",
     "id": "6e384bac-8ebc-4418-95ba-b43e343d9faa"
   },
   {
     "package": "gebaudegroenstruktur",
-    "title": "Wohngebäude mit zwei Wohnungen",
-    "url": "https://transparenz.karlsruhe.de/dataset/74bf19a3-bf3a-43bf-947d-28b8fb5c80e5/resource/fd159d95-5aba-4eb1-be4d-f2ec92fa8f42/download/gebaudegroenstruktur-wohngebaude-mit-zwei-wohnungen.csv",
-    "format": "CSV",
+    "name": "Wohngebäude mit zwei Wohnungen",
+    "source": "https://transparenz.karlsruhe.de/dataset/74bf19a3-bf3a-43bf-947d-28b8fb5c80e5/resource/fd159d95-5aba-4eb1-be4d-f2ec92fa8f42/download/gebaudegroenstruktur-wohngebaude-mit-zwei-wohnungen.csv",
+    "type": "CSV",
     "id": "fd159d95-5aba-4eb1-be4d-f2ec92fa8f42"
   },
   {
     "package": "gebaudegroenstruktur",
-    "title": "Wohngebäude mit einer Wohnung",
-    "url": "https://transparenz.karlsruhe.de/dataset/74bf19a3-bf3a-43bf-947d-28b8fb5c80e5/resource/6c020f39-ade1-42fa-af9e-cefac1717b9a/download/gebaudegroenstruktur-wohngebaude-mit-einer-wohnung.csv",
-    "format": "CSV",
+    "name": "Wohngebäude mit einer Wohnung",
+    "source": "https://transparenz.karlsruhe.de/dataset/74bf19a3-bf3a-43bf-947d-28b8fb5c80e5/resource/6c020f39-ade1-42fa-af9e-cefac1717b9a/download/gebaudegroenstruktur-wohngebaude-mit-einer-wohnung.csv",
+    "type": "CSV",
     "id": "6c020f39-ade1-42fa-af9e-cefac1717b9a"
   },
   {
     "package": "gebaudegroenstruktur",
-    "title": "1- und 2-Familienhäuser (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/74bf19a3-bf3a-43bf-947d-28b8fb5c80e5/resource/13217754-6456-45b2-8c95-25ef45a887cf/download/gebaudegroenstruktur-1-und-2-familienhauser-anteil.csv",
-    "format": "CSV",
+    "name": "1- und 2-Familienhäuser (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/74bf19a3-bf3a-43bf-947d-28b8fb5c80e5/resource/13217754-6456-45b2-8c95-25ef45a887cf/download/gebaudegroenstruktur-1-und-2-familienhauser-anteil.csv",
+    "type": "CSV",
     "id": "13217754-6456-45b2-8c95-25ef45a887cf"
   },
   {
     "package": "gebaudegroenstruktur",
-    "title": "Wohngebäude mit drei bis sechs Wohnungen",
-    "url": "https://transparenz.karlsruhe.de/dataset/74bf19a3-bf3a-43bf-947d-28b8fb5c80e5/resource/dad2aa2f-3c0a-478b-bbad-035d1de7c9e1/download/gebaudegroenstruktur-wohngebaude-mit-drei-bis-sechs-wohnungen.csv",
-    "format": "CSV",
+    "name": "Wohngebäude mit drei bis sechs Wohnungen",
+    "source": "https://transparenz.karlsruhe.de/dataset/74bf19a3-bf3a-43bf-947d-28b8fb5c80e5/resource/dad2aa2f-3c0a-478b-bbad-035d1de7c9e1/download/gebaudegroenstruktur-wohngebaude-mit-drei-bis-sechs-wohnungen.csv",
+    "type": "CSV",
     "id": "dad2aa2f-3c0a-478b-bbad-035d1de7c9e1"
   },
   {
     "package": "gebaudegroenstruktur",
-    "title": "Wohngebäude mit sieben und mehr Wohnungen",
-    "url": "https://transparenz.karlsruhe.de/dataset/74bf19a3-bf3a-43bf-947d-28b8fb5c80e5/resource/e031fe5f-90e0-4398-8824-a9fcc213a768/download/gebaudegroenstruktur-wohngebaude-mit-sieben-und-mehr-wohnungen.csv",
-    "format": "CSV",
+    "name": "Wohngebäude mit sieben und mehr Wohnungen",
+    "source": "https://transparenz.karlsruhe.de/dataset/74bf19a3-bf3a-43bf-947d-28b8fb5c80e5/resource/e031fe5f-90e0-4398-8824-a9fcc213a768/download/gebaudegroenstruktur-wohngebaude-mit-sieben-und-mehr-wohnungen.csv",
+    "type": "CSV",
     "id": "e031fe5f-90e0-4398-8824-a9fcc213a768"
   },
   {
     "package": "gebaude-und-wohnungen",
-    "title": "Wohngebäude",
-    "url": "https://transparenz.karlsruhe.de/dataset/f98ff9c1-9be1-4412-afeb-751708836f1b/resource/6016eae2-4594-470b-8c1f-9da19bfaa2a4/download/wohngebaude.csv",
-    "format": "CSV",
+    "name": "Wohngebäude",
+    "source": "https://transparenz.karlsruhe.de/dataset/f98ff9c1-9be1-4412-afeb-751708836f1b/resource/6016eae2-4594-470b-8c1f-9da19bfaa2a4/download/wohngebaude.csv",
+    "type": "CSV",
     "id": "6016eae2-4594-470b-8c1f-9da19bfaa2a4"
   },
   {
     "package": "gebaude-und-wohnungen",
-    "title": "Wohnungen",
-    "url": "https://transparenz.karlsruhe.de/dataset/f98ff9c1-9be1-4412-afeb-751708836f1b/resource/125e65b0-9c9b-4643-afb7-3fc458636173/download/gebaude-und-wohnungen-wohnungen.csv",
-    "format": "CSV",
+    "name": "Wohnungen",
+    "source": "https://transparenz.karlsruhe.de/dataset/f98ff9c1-9be1-4412-afeb-751708836f1b/resource/125e65b0-9c9b-4643-afb7-3fc458636173/download/gebaude-und-wohnungen-wohnungen.csv",
+    "type": "CSV",
     "id": "125e65b0-9c9b-4643-afb7-3fc458636173"
   },
   {
     "package": "haushalte",
-    "title": "Haushalte insgesamt",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/ac4f2de9-44ac-419f-afd6-bbf670bc2a4e/download/haushalte-haushalte-insgesamt.csv",
-    "format": "CSV",
+    "name": "Haushalte insgesamt",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/ac4f2de9-44ac-419f-afd6-bbf670bc2a4e/download/haushalte-haushalte-insgesamt.csv",
+    "type": "CSV",
     "id": "ac4f2de9-44ac-419f-afd6-bbf670bc2a4e"
   },
   {
     "package": "haushalte",
-    "title": "Einpersonenhaushalte (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/d2917c81-f983-47c9-a56d-b5e2570d1185/download/haushalte-einpersonenhaushalte-anteil.csv",
-    "format": "CSV",
+    "name": "Einpersonenhaushalte (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/d2917c81-f983-47c9-a56d-b5e2570d1185/download/haushalte-einpersonenhaushalte-anteil.csv",
+    "type": "CSV",
     "id": "d2917c81-f983-47c9-a56d-b5e2570d1185"
   },
   {
     "package": "haushalte",
-    "title": "Einpersonenhaushalte",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/2bae1cfa-14e1-45d3-b90d-3b375b9ef3ad/download/haushalte-einpersonenhaushalte.csv",
-    "format": "CSV",
+    "name": "Einpersonenhaushalte",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/2bae1cfa-14e1-45d3-b90d-3b375b9ef3ad/download/haushalte-einpersonenhaushalte.csv",
+    "type": "CSV",
     "id": "2bae1cfa-14e1-45d3-b90d-3b375b9ef3ad"
   },
   {
     "package": "haushalte",
-    "title": "Einpersonenhaushalte im Alter unter 30 Jahren",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/a976c36f-0d65-49a8-9471-c3f3f8fc6bee/download/haushalte-einpersonenhaushalte-im-alter-unter-30-jahren.csv",
-    "format": "CSV",
+    "name": "Einpersonenhaushalte im Alter unter 30 Jahren",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/a976c36f-0d65-49a8-9471-c3f3f8fc6bee/download/haushalte-einpersonenhaushalte-im-alter-unter-30-jahren.csv",
+    "type": "CSV",
     "id": "a976c36f-0d65-49a8-9471-c3f3f8fc6bee"
   },
   {
     "package": "haushalte",
-    "title": "Einpersonenhaushalte im Alter unter 30 Jahren (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/aa5497ab-82fe-4338-8bcb-a689a790b110/download/haushalte-einpersonenhaushalte-im-alter-unter-30-jahren-anteil.csv",
-    "format": "CSV",
+    "name": "Einpersonenhaushalte im Alter unter 30 Jahren (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/aa5497ab-82fe-4338-8bcb-a689a790b110/download/haushalte-einpersonenhaushalte-im-alter-unter-30-jahren-anteil.csv",
+    "type": "CSV",
     "id": "aa5497ab-82fe-4338-8bcb-a689a790b110"
   },
   {
     "package": "haushalte",
-    "title": "Einpersonenhaushalte im Alter 60 Jahre und älter (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/dc4af0a6-32fe-4ab4-95ad-839f6e2c180c/download/haushalte-einpersonenhaushalte-im-alter-60-jahre-und-alter-anteil.csv",
-    "format": "CSV",
+    "name": "Einpersonenhaushalte im Alter 60 Jahre und älter (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/dc4af0a6-32fe-4ab4-95ad-839f6e2c180c/download/haushalte-einpersonenhaushalte-im-alter-60-jahre-und-alter-anteil.csv",
+    "type": "CSV",
     "id": "dc4af0a6-32fe-4ab4-95ad-839f6e2c180c"
   },
   {
     "package": "haushalte",
-    "title": "Einpersonenhaushalte im Alter 60 Jahre und älter",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/7693fd39-3469-4374-a7b2-4dd2cac9e4f0/download/haushalte-einpersonenhaushalte-im-alter-60-jahre-und-alter.csv",
-    "format": "CSV",
+    "name": "Einpersonenhaushalte im Alter 60 Jahre und älter",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/7693fd39-3469-4374-a7b2-4dd2cac9e4f0/download/haushalte-einpersonenhaushalte-im-alter-60-jahre-und-alter.csv",
+    "type": "CSV",
     "id": "7693fd39-3469-4374-a7b2-4dd2cac9e4f0"
   },
   {
     "package": "haushalte",
-    "title": "Mehrpersonenhaushalte",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/7937471b-d832-4c59-ab9d-032e1434aff9/download/haushalte-mehrpersonenhaushalte.csv",
-    "format": "CSV",
+    "name": "Mehrpersonenhaushalte",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/7937471b-d832-4c59-ab9d-032e1434aff9/download/haushalte-mehrpersonenhaushalte.csv",
+    "type": "CSV",
     "id": "7937471b-d832-4c59-ab9d-032e1434aff9"
   },
   {
     "package": "haushalte",
-    "title": "Mehrpersonenhaushalte (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/17817ebe-5e64-4dab-88db-6cdecf7d8b85/download/haushalte-mehrpersonenhaushalte-anteil.csv",
-    "format": "CSV",
+    "name": "Mehrpersonenhaushalte (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/17817ebe-5e64-4dab-88db-6cdecf7d8b85/download/haushalte-mehrpersonenhaushalte-anteil.csv",
+    "type": "CSV",
     "id": "17817ebe-5e64-4dab-88db-6cdecf7d8b85"
   },
   {
     "package": "haushalte",
-    "title": "Haushalte mit Kindern unter 18 Jahren",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/45757a1d-ea7b-40a4-858a-b83727d5ce12/download/haushalte-haushalte-mit-kindern-unter-18-jahren.csv",
-    "format": "CSV",
+    "name": "Haushalte mit Kindern unter 18 Jahren",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/45757a1d-ea7b-40a4-858a-b83727d5ce12/download/haushalte-haushalte-mit-kindern-unter-18-jahren.csv",
+    "type": "CSV",
     "id": "45757a1d-ea7b-40a4-858a-b83727d5ce12"
   },
   {
     "package": "haushalte",
-    "title": "Haushalte mit Kindern unter 18 Jahren (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/8ab3a67d-cc4c-4d6a-b0cc-d52db63f702d/download/haushalte-haushalte-mit-kindern-unter-18-jahren-anteil.csv",
-    "format": "CSV",
+    "name": "Haushalte mit Kindern unter 18 Jahren (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/8ab3a67d-cc4c-4d6a-b0cc-d52db63f702d/download/haushalte-haushalte-mit-kindern-unter-18-jahren-anteil.csv",
+    "type": "CSV",
     "id": "8ab3a67d-cc4c-4d6a-b0cc-d52db63f702d"
   },
   {
     "package": "haushalte",
-    "title": "Paare mit Kind(ern)",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/fa16ad9e-fea8-41e2-8572-6bf38ef1d192/download/haushalte-paare-mit-kindern.csv",
-    "format": "CSV",
+    "name": "Paare mit Kind(ern)",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/fa16ad9e-fea8-41e2-8572-6bf38ef1d192/download/haushalte-paare-mit-kindern.csv",
+    "type": "CSV",
     "id": "fa16ad9e-fea8-41e2-8572-6bf38ef1d192"
   },
   {
     "package": "haushalte",
-    "title": "Paare mit Kind(ern) (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/379176a1-27d3-4217-ab09-82e457a7a3d4/download/haushalte-paare-mit-kindern-anteil.csv",
-    "format": "CSV",
+    "name": "Paare mit Kind(ern) (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/379176a1-27d3-4217-ab09-82e457a7a3d4/download/haushalte-paare-mit-kindern-anteil.csv",
+    "type": "CSV",
     "id": "379176a1-27d3-4217-ab09-82e457a7a3d4"
   },
   {
     "package": "haushalte",
-    "title": "Haushalte von Alleinerziehenden",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/7def7a9d-3059-4d0f-bc3c-fcb74ea44003/download/haushalte-haushalte-von-alleinerziehenden.csv",
-    "format": "CSV",
+    "name": "Haushalte von Alleinerziehenden",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/7def7a9d-3059-4d0f-bc3c-fcb74ea44003/download/haushalte-haushalte-von-alleinerziehenden.csv",
+    "type": "CSV",
     "id": "7def7a9d-3059-4d0f-bc3c-fcb74ea44003"
   },
   {
     "package": "haushalte",
-    "title": "Haushalte von Alleinerziehenden (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/9c4d9f87-ffdf-4cb4-90fc-02030e0b4c78/download/haushalte-haushalte-von-alleinerziehenden-anteil.csv",
-    "format": "CSV",
+    "name": "Haushalte von Alleinerziehenden (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/9c4d9f87-ffdf-4cb4-90fc-02030e0b4c78/download/haushalte-haushalte-von-alleinerziehenden-anteil.csv",
+    "type": "CSV",
     "id": "9c4d9f87-ffdf-4cb4-90fc-02030e0b4c78"
   },
   {
     "package": "haushalte",
-    "title": "Paare ohne Kind(er)",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/06210b52-ffc1-4866-8b3b-1a6d3638e3cc/download/haushalte-paare-ohne-kinder.csv",
-    "format": "CSV",
+    "name": "Paare ohne Kind(er)",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/06210b52-ffc1-4866-8b3b-1a6d3638e3cc/download/haushalte-paare-ohne-kinder.csv",
+    "type": "CSV",
     "id": "06210b52-ffc1-4866-8b3b-1a6d3638e3cc"
   },
   {
     "package": "haushalte",
-    "title": "Paare ohne Kind(er) (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/6076f756-4940-4b1d-80af-e9ff597478ea/download/haushalte-paare-ohne-kinder-anteil.csv",
-    "format": "CSV",
+    "name": "Paare ohne Kind(er) (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/6076f756-4940-4b1d-80af-e9ff597478ea/download/haushalte-paare-ohne-kinder-anteil.csv",
+    "type": "CSV",
     "id": "6076f756-4940-4b1d-80af-e9ff597478ea"
   },
   {
     "package": "haushalte",
-    "title": "Sonstige Mehrpersonenhaushalte",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/225a1572-d661-4ac3-b23d-76f6a32a2621/download/haushalte-sonstige-mehrpersonenhaushalte.csv",
-    "format": "CSV",
+    "name": "Sonstige Mehrpersonenhaushalte",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/225a1572-d661-4ac3-b23d-76f6a32a2621/download/haushalte-sonstige-mehrpersonenhaushalte.csv",
+    "type": "CSV",
     "id": "225a1572-d661-4ac3-b23d-76f6a32a2621"
   },
   {
     "package": "haushalte",
-    "title": "Sonstige Mehrpersonenhaushalte (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/503666dd-cb8d-448f-a84e-856e0c89ce1a/download/haushalte-sonstige-mehrpersonenhaushalte-anteil.csv",
-    "format": "CSV",
+    "name": "Sonstige Mehrpersonenhaushalte (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/42049995-8339-4e5d-9535-ff214d4ca81b/resource/503666dd-cb8d-448f-a84e-856e0c89ce1a/download/haushalte-sonstige-mehrpersonenhaushalte-anteil.csv",
+    "type": "CSV",
     "id": "503666dd-cb8d-448f-a84e-856e0c89ce1a"
   },
   {
     "package": "haushaltsplan-daten-2017-2018",
-    "title": "Gesamtergebnishaushalt",
-    "url": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/b58379fc-cd3a-4f79-b1b1-917ee69c94e2/download/gesamtergebnishaushalt-2017-2018.csv",
-    "format": "CSV",
+    "name": "Gesamtergebnishaushalt",
+    "source": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/b58379fc-cd3a-4f79-b1b1-917ee69c94e2/download/gesamtergebnishaushalt-2017-2018.csv",
+    "type": "CSV",
     "id": "b58379fc-cd3a-4f79-b1b1-917ee69c94e2"
   },
   {
     "package": "haushaltsplan-daten-2017-2018",
-    "title": "Teilergebnishaushalte",
-    "url": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/b4547600-d11e-4ac3-9fc4-bc5bc5354dc4/download/teilergebnishaushalte-2017-2018.csv",
-    "format": "CSV",
+    "name": "Teilergebnishaushalte",
+    "source": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/b4547600-d11e-4ac3-9fc4-bc5bc5354dc4/download/teilergebnishaushalte-2017-2018.csv",
+    "type": "CSV",
     "id": "b4547600-d11e-4ac3-9fc4-bc5bc5354dc4"
   },
   {
     "package": "haushaltsplan-daten-2017-2018",
-    "title": "Gesamtfinanzhaushalt",
-    "url": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/bd2e7f77-2dce-43ea-957b-7025520fe6a7/download/gesamtfinanzhaushalt-2017-2018.csv",
-    "format": "CSV",
+    "name": "Gesamtfinanzhaushalt",
+    "source": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/bd2e7f77-2dce-43ea-957b-7025520fe6a7/download/gesamtfinanzhaushalt-2017-2018.csv",
+    "type": "CSV",
     "id": "bd2e7f77-2dce-43ea-957b-7025520fe6a7"
   },
   {
     "package": "haushaltsplan-daten-2017-2018",
-    "title": "Teilfinanzhaushalte",
-    "url": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/7d0058ff-be22-48ba-b829-b0f63056a81f/download/teilfinanzhaushalte-2017-2018.csv",
-    "format": "CSV",
+    "name": "Teilfinanzhaushalte",
+    "source": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/7d0058ff-be22-48ba-b829-b0f63056a81f/download/teilfinanzhaushalte-2017-2018.csv",
+    "type": "CSV",
     "id": "7d0058ff-be22-48ba-b829-b0f63056a81f"
   },
   {
     "package": "haushaltsplan-daten-2017-2018",
-    "title": "Investitionsübersichten",
-    "url": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/bf78af17-949a-4465-8745-05be2a0e1725/download/investitionsuebersichten-2017-2018.csv",
-    "format": "CSV",
+    "name": "Investitionsübersichten",
+    "source": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/bf78af17-949a-4465-8745-05be2a0e1725/download/investitionsuebersichten-2017-2018.csv",
+    "type": "CSV",
     "id": "bf78af17-949a-4465-8745-05be2a0e1725"
   },
   {
     "package": "haushaltsplan-daten-2017-2018",
-    "title": "Teilhaushalte",
-    "url": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/ab7aae34-1934-493d-b2a9-f4919b31a460/download/teilhaushalte-2017-2018.csv",
-    "format": "CSV",
+    "name": "Teilhaushalte",
+    "source": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/ab7aae34-1934-493d-b2a9-f4919b31a460/download/teilhaushalte-2017-2018.csv",
+    "type": "CSV",
     "id": "ab7aae34-1934-493d-b2a9-f4919b31a460"
   },
   {
     "package": "jahresstatistik-burgerdienste",
-    "title": "Jahresstatistik September 2020 bis August 2021",
-    "url": "https://transparenz.karlsruhe.de/dataset/a73bcee8-2bbc-4a88-b10d-053b4dd75667/resource/726fb982-0d9b-495d-b95c-898b3e0bea90/download/jahresuebersichtseitenaufrufeleistungen_intranet.csv",
-    "format": "CSV",
+    "name": "Jahresstatistik September 2020 bis August 2021",
+    "source": "https://transparenz.karlsruhe.de/dataset/a73bcee8-2bbc-4a88-b10d-053b4dd75667/resource/726fb982-0d9b-495d-b95c-898b3e0bea90/download/jahresuebersichtseitenaufrufeleistungen_intranet.csv",
+    "type": "CSV",
     "id": "726fb982-0d9b-495d-b95c-898b3e0bea90"
   },
   {
     "package": "ka-feedback-meldungen",
-    "title": "KA-Feedback Meldungen 2012",
-    "url": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/51412c59-0356-456d-9412-fa7f3bf18741/download/ka-feedback-2012.csv",
-    "format": "CSV",
+    "name": "KA-Feedback Meldungen 2012",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/51412c59-0356-456d-9412-fa7f3bf18741/download/ka-feedback-2012.csv",
+    "type": "CSV",
     "id": "51412c59-0356-456d-9412-fa7f3bf18741"
   },
   {
     "package": "ka-feedback-meldungen",
-    "title": "KA-Feedback Meldungen 2013",
-    "url": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/7dd118e3-5a3e-43fb-8416-3cd6e449e07d/download/ka-feedback-2013.csv",
-    "format": "CSV",
+    "name": "KA-Feedback Meldungen 2013",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/7dd118e3-5a3e-43fb-8416-3cd6e449e07d/download/ka-feedback-2013.csv",
+    "type": "CSV",
     "id": "7dd118e3-5a3e-43fb-8416-3cd6e449e07d"
   },
   {
     "package": "ka-feedback-meldungen",
-    "title": "KA-Feedback Meldungen 2016",
-    "url": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/8bb611b3-4560-429d-bba7-c6d018752f0e/download/ka-feedback-2016.csv",
-    "format": "CSV",
+    "name": "KA-Feedback Meldungen 2016",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/8bb611b3-4560-429d-bba7-c6d018752f0e/download/ka-feedback-2016.csv",
+    "type": "CSV",
     "id": "8bb611b3-4560-429d-bba7-c6d018752f0e"
   },
   {
     "package": "ka-feedback-meldungen",
-    "title": "KA-Feedback Meldungen 2014",
-    "url": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/723dbf86-993f-4f3d-9fc8-a12cff3249fe/download/ka-feedback-2014.csv",
-    "format": "CSV",
+    "name": "KA-Feedback Meldungen 2014",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/723dbf86-993f-4f3d-9fc8-a12cff3249fe/download/ka-feedback-2014.csv",
+    "type": "CSV",
     "id": "723dbf86-993f-4f3d-9fc8-a12cff3249fe"
   },
   {
     "package": "ka-feedback-meldungen",
-    "title": "KA-Feedback Meldungen 2015",
-    "url": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/368b34e9-475d-4af8-8f1f-f636776af4d0/download/ka-feedback-2015.csv",
-    "format": "CSV",
+    "name": "KA-Feedback Meldungen 2015",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/368b34e9-475d-4af8-8f1f-f636776af4d0/download/ka-feedback-2015.csv",
+    "type": "CSV",
     "id": "368b34e9-475d-4af8-8f1f-f636776af4d0"
   },
   {
     "package": "ka-feedback-meldungen",
-    "title": "KA-Feedback Meldungen 2017",
-    "url": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/980ad0c7-d4ab-4dce-b634-5ca991d22464/download/ka-feedback-2017.csv",
-    "format": "CSV",
+    "name": "KA-Feedback Meldungen 2017",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/980ad0c7-d4ab-4dce-b634-5ca991d22464/download/ka-feedback-2017.csv",
+    "type": "CSV",
     "id": "980ad0c7-d4ab-4dce-b634-5ca991d22464"
   },
   {
     "package": "ka-feedback-meldungen",
-    "title": "KA-Feedback Meldungen 2019",
-    "url": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/68cd602d-2e05-4301-9398-db1340d56d37/download/ka-feedback-2019.csv",
-    "format": "CSV",
+    "name": "KA-Feedback Meldungen 2019",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/68cd602d-2e05-4301-9398-db1340d56d37/download/ka-feedback-2019.csv",
+    "type": "CSV",
     "id": "68cd602d-2e05-4301-9398-db1340d56d37"
   },
   {
     "package": "ka-feedback-meldungen",
-    "title": "KA-Feedback Meldungen 2020",
-    "url": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/19c40fe4-4282-4b46-9146-4456796ac54e/download/ka-feedback-2020.csv",
-    "format": "CSV",
+    "name": "KA-Feedback Meldungen 2020",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/19c40fe4-4282-4b46-9146-4456796ac54e/download/ka-feedback-2020.csv",
+    "type": "CSV",
     "id": "19c40fe4-4282-4b46-9146-4456796ac54e"
   },
   {
     "package": "ka-feedback-meldungen",
-    "title": "KA-Feedback Meldungen 2018",
-    "url": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/85ed3a76-6018-4043-901d-1b3a5e1aaf8f/download/ka-feedback-2018.csv",
-    "format": "CSV",
+    "name": "KA-Feedback Meldungen 2018",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/85ed3a76-6018-4043-901d-1b3a5e1aaf8f/download/ka-feedback-2018.csv",
+    "type": "CSV",
     "id": "85ed3a76-6018-4043-901d-1b3a5e1aaf8f"
   },
   {
     "package": "ka-feedback-meldungen",
-    "title": "KA-Feedback Meldungen 2021",
-    "url": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/55c92e07-dba2-485f-8231-c163a688f238/download/ka-feedback-2021.csv",
-    "format": "CSV",
+    "name": "KA-Feedback Meldungen 2021",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/55c92e07-dba2-485f-8231-c163a688f238/download/ka-feedback-2021.csv",
+    "type": "CSV",
     "id": "55c92e07-dba2-485f-8231-c163a688f238"
   },
   {
     "package": "landtagswahl-2016",
-    "title": "Wahlkreis 28 (Karlsruhe II)",
-    "url": "https://transparenz.karlsruhe.de/dataset/c6576352-5ece-4380-a837-1e454606bacd/resource/6fa5196b-6b6c-46b2-b700-4e302f887919/download/landtagswahl_2016_wahlkreis_28.csv",
-    "format": "CSV",
+    "name": "Wahlkreis 28 (Karlsruhe II)",
+    "source": "https://transparenz.karlsruhe.de/dataset/c6576352-5ece-4380-a837-1e454606bacd/resource/6fa5196b-6b6c-46b2-b700-4e302f887919/download/landtagswahl_2016_wahlkreis_28.csv",
+    "type": "CSV",
     "id": "6fa5196b-6b6c-46b2-b700-4e302f887919"
   },
   {
     "package": "landtagswahl-2016",
-    "title": "Wahlkreis 27 (Karlsruhe I)",
-    "url": "https://transparenz.karlsruhe.de/dataset/c6576352-5ece-4380-a837-1e454606bacd/resource/2c6f0e52-51d1-488d-91ec-7e51ec44d7d6/download/landtagswahl_2016_wahlkreis_27.csv",
-    "format": "CSV",
+    "name": "Wahlkreis 27 (Karlsruhe I)",
+    "source": "https://transparenz.karlsruhe.de/dataset/c6576352-5ece-4380-a837-1e454606bacd/resource/2c6f0e52-51d1-488d-91ec-7e51ec44d7d6/download/landtagswahl_2016_wahlkreis_27.csv",
+    "type": "CSV",
     "id": "2c6f0e52-51d1-488d-91ec-7e51ec44d7d6"
   },
   {
     "package": "landtagswahl-2021",
-    "title": "Wahlbezirken und Wahlräumen",
-    "url": "https://transparenz.karlsruhe.de/dataset/61eaf3b7-5e8c-4742-be4b-4068cd9e901c/resource/613d1620-f275-46a2-9eef-98e84c83e392/download/opendata-wahllokale.csv",
-    "format": "CSV",
+    "name": "Wahlbezirken und Wahlräumen",
+    "source": "https://transparenz.karlsruhe.de/dataset/61eaf3b7-5e8c-4742-be4b-4068cd9e901c/resource/613d1620-f275-46a2-9eef-98e84c83e392/download/opendata-wahllokale.csv",
+    "type": "CSV",
     "id": "613d1620-f275-46a2-9eef-98e84c83e392"
   },
   {
     "package": "landtagswahl-2021",
-    "title": "Ergebnis nach Wahlbezirken",
-    "url": "https://transparenz.karlsruhe.de/dataset/61eaf3b7-5e8c-4742-be4b-4068cd9e901c/resource/9e2429c9-1ff4-4bd9-aa0a-44c0ac4768b9/download/open-data-landtagswahl-bw-2021-_land-bw_ergebnis-nach-wahlbezirken.csv",
-    "format": "CSV",
+    "name": "Ergebnis nach Wahlbezirken",
+    "source": "https://transparenz.karlsruhe.de/dataset/61eaf3b7-5e8c-4742-be4b-4068cd9e901c/resource/9e2429c9-1ff4-4bd9-aa0a-44c0ac4768b9/download/open-data-landtagswahl-bw-2021-_land-bw_ergebnis-nach-wahlbezirken.csv",
+    "type": "CSV",
     "id": "9e2429c9-1ff4-4bd9-aa0a-44c0ac4768b9"
   },
   {
     "package": "landtagswahl-2021",
-    "title": "Ergebnis nach Wahlkreisen",
-    "url": "https://transparenz.karlsruhe.de/dataset/61eaf3b7-5e8c-4742-be4b-4068cd9e901c/resource/c222f4d6-eaba-4d81-b953-e4e069a0d884/download/open-data-landtagswahl-bw-2021-_land-bw_ergebnis_nach_wahlkreisen.csv",
-    "format": "CSV",
+    "name": "Ergebnis nach Wahlkreisen",
+    "source": "https://transparenz.karlsruhe.de/dataset/61eaf3b7-5e8c-4742-be4b-4068cd9e901c/resource/c222f4d6-eaba-4d81-b953-e4e069a0d884/download/open-data-landtagswahl-bw-2021-_land-bw_ergebnis_nach_wahlkreisen.csv",
+    "type": "CSV",
     "id": "c222f4d6-eaba-4d81-b953-e4e069a0d884"
   },
   {
     "package": "landtagswahl-2021",
-    "title": "Ergebnis nach Stadtteilen",
-    "url": "https://transparenz.karlsruhe.de/dataset/61eaf3b7-5e8c-4742-be4b-4068cd9e901c/resource/6b61884f-68d5-4b11-ab39-0b90bb264622/download/open-data-landtagswahl-bw-2021-_land-bw_ergebnis_nach_stadtteilen.csv",
-    "format": "CSV",
+    "name": "Ergebnis nach Stadtteilen",
+    "source": "https://transparenz.karlsruhe.de/dataset/61eaf3b7-5e8c-4742-be4b-4068cd9e901c/resource/6b61884f-68d5-4b11-ab39-0b90bb264622/download/open-data-landtagswahl-bw-2021-_land-bw_ergebnis_nach_stadtteilen.csv",
+    "type": "CSV",
     "id": "6b61884f-68d5-4b11-ab39-0b90bb264622"
   },
   {
     "package": "migration",
-    "title": "Bevölkerung mit Migrationshintergrund nach Art",
-    "url": "https://transparenz.karlsruhe.de/dataset/9bc7289b-ba18-47cc-a5bb-75bb622759ab/resource/7cfab000-e64b-41bb-95ad-2035663fc145/download/migration-bevolkerung-mit-migrationshintergrund-nach-art.csv",
-    "format": "CSV",
+    "name": "Bevölkerung mit Migrationshintergrund nach Art",
+    "source": "https://transparenz.karlsruhe.de/dataset/9bc7289b-ba18-47cc-a5bb-75bb622759ab/resource/7cfab000-e64b-41bb-95ad-2035663fc145/download/migration-bevolkerung-mit-migrationshintergrund-nach-art.csv",
+    "type": "CSV",
     "id": "7cfab000-e64b-41bb-95ad-2035663fc145"
   },
   {
     "package": "migration",
-    "title": "Ausländer/-innen im Alter ab 65 Jahren nach Geschlecht (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/9bc7289b-ba18-47cc-a5bb-75bb622759ab/resource/2fe18edf-867a-41e0-b2c5-c0d18367dba0/download/migration-auslander-innen-im-alter-ab-65-jahren-nach-geschlecht-anteil.csv",
-    "format": "CSV",
+    "name": "Ausländer/-innen im Alter ab 65 Jahren nach Geschlecht (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/9bc7289b-ba18-47cc-a5bb-75bb622759ab/resource/2fe18edf-867a-41e0-b2c5-c0d18367dba0/download/migration-auslander-innen-im-alter-ab-65-jahren-nach-geschlecht-anteil.csv",
+    "type": "CSV",
     "id": "2fe18edf-867a-41e0-b2c5-c0d18367dba0"
   },
   {
     "package": "migration",
-    "title": "Bevölkerung mit Migrationshintergrund nach Art (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/9bc7289b-ba18-47cc-a5bb-75bb622759ab/resource/2568dff2-4716-45ae-95ac-1a1ca18d3502/download/migration-bevolkerung-mit-migrationshintergrund-nach-art-anteil.csv",
-    "format": "CSV",
+    "name": "Bevölkerung mit Migrationshintergrund nach Art (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/9bc7289b-ba18-47cc-a5bb-75bb622759ab/resource/2568dff2-4716-45ae-95ac-1a1ca18d3502/download/migration-bevolkerung-mit-migrationshintergrund-nach-art-anteil.csv",
+    "type": "CSV",
     "id": "2568dff2-4716-45ae-95ac-1a1ca18d3502"
   },
   {
     "package": "migration",
-    "title": "Ausländer/-innen im Alter ab 65 Jahren nach Geschlecht",
-    "url": "https://transparenz.karlsruhe.de/dataset/9bc7289b-ba18-47cc-a5bb-75bb622759ab/resource/35a66b1b-4ba0-4606-b015-2e32a407d727/download/migration-auslander-innen-im-alter-ab-65-jahren-nach-geschlecht.csv",
-    "format": "CSV",
+    "name": "Ausländer/-innen im Alter ab 65 Jahren nach Geschlecht",
+    "source": "https://transparenz.karlsruhe.de/dataset/9bc7289b-ba18-47cc-a5bb-75bb622759ab/resource/35a66b1b-4ba0-4606-b015-2e32a407d727/download/migration-auslander-innen-im-alter-ab-65-jahren-nach-geschlecht.csv",
+    "type": "CSV",
     "id": "35a66b1b-4ba0-4606-b015-2e32a407d727"
   },
   {
     "package": "migration",
-    "title": "Unter 18 Jährige mit Migrationshintergrund nach Geschlecht",
-    "url": "https://transparenz.karlsruhe.de/dataset/9bc7289b-ba18-47cc-a5bb-75bb622759ab/resource/a5c2cb40-d185-405d-8350-039144dd7f2d/download/migration-unter-18-jahrige-mit-migrationshintergrund-nach-geschlecht.csv",
-    "format": "CSV",
+    "name": "Unter 18 Jährige mit Migrationshintergrund nach Geschlecht",
+    "source": "https://transparenz.karlsruhe.de/dataset/9bc7289b-ba18-47cc-a5bb-75bb622759ab/resource/a5c2cb40-d185-405d-8350-039144dd7f2d/download/migration-unter-18-jahrige-mit-migrationshintergrund-nach-geschlecht.csv",
+    "type": "CSV",
     "id": "a5c2cb40-d185-405d-8350-039144dd7f2d"
   },
   {
     "package": "migration",
-    "title": "Unter 18 Jährige mit Migrationshintergrund nach Art (Anteil)",
-    "url": "https://transparenz.karlsruhe.de/dataset/9bc7289b-ba18-47cc-a5bb-75bb622759ab/resource/aea75426-a745-4515-b144-ef213a3ea96e/download/migration-unter-18-jahrige-mit-migrationshintergrund-nach-art-anteil.csv",
-    "format": "CSV",
+    "name": "Unter 18 Jährige mit Migrationshintergrund nach Art (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/9bc7289b-ba18-47cc-a5bb-75bb622759ab/resource/aea75426-a745-4515-b144-ef213a3ea96e/download/migration-unter-18-jahrige-mit-migrationshintergrund-nach-art-anteil.csv",
+    "type": "CSV",
     "id": "aea75426-a745-4515-b144-ef213a3ea96e"
   },
   {
     "package": "migration",
-    "title": "Unter 18 Jährige mit Migrationshintergrund nach Art",
-    "url": "https://transparenz.karlsruhe.de/dataset/9bc7289b-ba18-47cc-a5bb-75bb622759ab/resource/b221c736-5d15-4841-a3ef-e9be8386a1ea/download/migration-unter-18-jahrige-mit-migrationshintergrund-nach-art.csv",
-    "format": "CSV",
+    "name": "Unter 18 Jährige mit Migrationshintergrund nach Art",
+    "source": "https://transparenz.karlsruhe.de/dataset/9bc7289b-ba18-47cc-a5bb-75bb622759ab/resource/b221c736-5d15-4841-a3ef-e9be8386a1ea/download/migration-unter-18-jahrige-mit-migrationshintergrund-nach-art.csv",
+    "type": "CSV",
     "id": "b221c736-5d15-4841-a3ef-e9be8386a1ea"
   },
   {
     "package": "registrierte-hunde",
-    "title": "Hunde insgesamt",
-    "url": "https://transparenz.karlsruhe.de/dataset/5ee4244d-943f-4b26-9c86-c11e843e8351/resource/a5f04b45-528a-41b5-8d8c-eb9677bf2fd1/download/registrierte-hunde-hunde-insgesamt.csv",
-    "format": "CSV",
+    "name": "Hunde insgesamt",
+    "source": "https://transparenz.karlsruhe.de/dataset/5ee4244d-943f-4b26-9c86-c11e843e8351/resource/a5f04b45-528a-41b5-8d8c-eb9677bf2fd1/download/registrierte-hunde-hunde-insgesamt.csv",
+    "type": "CSV",
     "id": "a5f04b45-528a-41b5-8d8c-eb9677bf2fd1"
   },
   {
     "package": "sensordaten-karlsruhe",
-    "title": "Messwerte Friedrichsplatz Januar 2023",
-    "url": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/9003976d-704c-4472-8671-d3dff04922b9/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_jan_2023.csv",
-    "format": "CSV",
+    "name": "Messwerte Friedrichsplatz Januar 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/9003976d-704c-4472-8671-d3dff04922b9/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_jan_2023.csv",
+    "type": "CSV",
     "id": "9003976d-704c-4472-8671-d3dff04922b9"
   },
   {
     "package": "sensordaten-karlsruhe",
-    "title": "Messwerte Friedrichsplatz Februar 2023",
-    "url": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/7eebd0ec-142b-4696-a8e8-c0be013231ef/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_feb_2023.csv",
-    "format": "CSV",
+    "name": "Messwerte Friedrichsplatz Februar 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/7eebd0ec-142b-4696-a8e8-c0be013231ef/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_feb_2023.csv",
+    "type": "CSV",
     "id": "7eebd0ec-142b-4696-a8e8-c0be013231ef"
   },
   {
     "package": "sensordaten-karlsruhe",
-    "title": "Messwerte Friedrichsplatz März 2023",
-    "url": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/fc198da4-d976-469e-b7fe-cb8f9c7f42d9/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_mar_2023.csv",
-    "format": "CSV",
+    "name": "Messwerte Friedrichsplatz März 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/fc198da4-d976-469e-b7fe-cb8f9c7f42d9/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_mar_2023.csv",
+    "type": "CSV",
     "id": "fc198da4-d976-469e-b7fe-cb8f9c7f42d9"
   },
   {
     "package": "sensordaten-karlsruhe",
-    "title": "Messwerte Friedrichsplatz April 2023",
-    "url": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/e489a40e-d3e8-4888-b3a2-e09169a36a36/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_apr_2023.csv",
-    "format": "CSV",
+    "name": "Messwerte Friedrichsplatz April 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/e489a40e-d3e8-4888-b3a2-e09169a36a36/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_apr_2023.csv",
+    "type": "CSV",
     "id": "e489a40e-d3e8-4888-b3a2-e09169a36a36"
   },
   {
     "package": "sensordaten-karlsruhe",
-    "title": "Messwerte Friedrichsplatz Mai 2023",
-    "url": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/e6fbd89e-54f4-4ad5-98c3-e15c97509548/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_mai_2023.csv",
-    "format": "CSV",
+    "name": "Messwerte Friedrichsplatz Mai 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/e6fbd89e-54f4-4ad5-98c3-e15c97509548/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_mai_2023.csv",
+    "type": "CSV",
     "id": "e6fbd89e-54f4-4ad5-98c3-e15c97509548"
   },
   {
     "package": "sensordaten-karlsruhe",
-    "title": "Messwerte Friedrichsplatz Juli 2023",
-    "url": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/22e4e246-e858-48c2-b155-f9485140d39c/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_jul_2023.csv",
-    "format": "CSV",
+    "name": "Messwerte Friedrichsplatz Juli 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/22e4e246-e858-48c2-b155-f9485140d39c/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_jul_2023.csv",
+    "type": "CSV",
     "id": "22e4e246-e858-48c2-b155-f9485140d39c"
   },
   {
     "package": "sensordaten-karlsruhe",
-    "title": "Messwerte Friedrichsplatz Juni 2023",
-    "url": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/863bda3a-7693-4a7d-9eb8-268687964c83/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_jun_2023.csv",
-    "format": "CSV",
+    "name": "Messwerte Friedrichsplatz Juni 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/863bda3a-7693-4a7d-9eb8-268687964c83/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_jun_2023.csv",
+    "type": "CSV",
     "id": "863bda3a-7693-4a7d-9eb8-268687964c83"
   },
   {
     "package": "sensordaten-karlsruhe",
-    "title": "Messwerte Friedrichsplatz August 2023",
-    "url": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/28c99b77-3ce1-450e-8417-53d4c4d7a080/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_aug_2023.csv",
-    "format": "CSV",
+    "name": "Messwerte Friedrichsplatz August 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/28c99b77-3ce1-450e-8417-53d4c4d7a080/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_aug_2023.csv",
+    "type": "CSV",
     "id": "28c99b77-3ce1-450e-8417-53d4c4d7a080"
   },
   {
     "package": "sensordaten-karlsruhe",
-    "title": "Messwerte Friedrichsplatz September 2023",
-    "url": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/d5395f42-c8ef-4c9f-988f-9ee56d842997/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_sep_2023.csv",
-    "format": "CSV",
+    "name": "Messwerte Friedrichsplatz September 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/d5395f42-c8ef-4c9f-988f-9ee56d842997/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_sep_2023.csv",
+    "type": "CSV",
     "id": "d5395f42-c8ef-4c9f-988f-9ee56d842997"
   },
   {
     "package": "sensordaten-karlsruhe",
-    "title": "Messwerte Friedrichsplatz Oktober 2023",
-    "url": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/df843a83-b3f6-4929-b6a8-96471508f6f2/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_oct_2023.csv",
-    "format": "CSV",
+    "name": "Messwerte Friedrichsplatz Oktober 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/df843a83-b3f6-4929-b6a8-96471508f6f2/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_oct_2023.csv",
+    "type": "CSV",
     "id": "df843a83-b3f6-4929-b6a8-96471508f6f2"
   },
   {
     "package": "spielflachenversorgung",
-    "title": "Kinderspielplätze",
-    "url": "https://transparenz.karlsruhe.de/dataset/5e1001f4-2cef-4a37-b6c8-16896fa74678/resource/6a8f8357-8151-4afc-958a-dc869b284d79/download/spielflachenversorgung-kinderspielplatze.csv",
-    "format": "CSV",
+    "name": "Kinderspielplätze",
+    "source": "https://transparenz.karlsruhe.de/dataset/5e1001f4-2cef-4a37-b6c8-16896fa74678/resource/6a8f8357-8151-4afc-958a-dc869b284d79/download/spielflachenversorgung-kinderspielplatze.csv",
+    "type": "CSV",
     "id": "6a8f8357-8151-4afc-958a-dc869b284d79"
   },
   {
     "package": "spielflachenversorgung",
-    "title": "Spielflächenfehlbedarf (-) / -überschuss",
-    "url": "https://transparenz.karlsruhe.de/dataset/5e1001f4-2cef-4a37-b6c8-16896fa74678/resource/0706a117-2ed6-4000-a598-c637cc311b93/download/spielflachenversorgung-spielflachenfehlbedarf-uberschuss.csv",
-    "format": "CSV",
+    "name": "Spielflächenfehlbedarf (-) / -überschuss",
+    "source": "https://transparenz.karlsruhe.de/dataset/5e1001f4-2cef-4a37-b6c8-16896fa74678/resource/0706a117-2ed6-4000-a598-c637cc311b93/download/spielflachenversorgung-spielflachenfehlbedarf-uberschuss.csv",
+    "type": "CSV",
     "id": "0706a117-2ed6-4000-a598-c637cc311b93"
   },
   {
     "package": "spielflachenversorgung",
-    "title": "Bespielbare Fläche",
-    "url": "https://transparenz.karlsruhe.de/dataset/5e1001f4-2cef-4a37-b6c8-16896fa74678/resource/9f1977cb-2712-437e-bebf-dd0bbb0d54dd/download/spielflachenversorgung-bespielbare-flache.csv",
-    "format": "CSV",
+    "name": "Bespielbare Fläche",
+    "source": "https://transparenz.karlsruhe.de/dataset/5e1001f4-2cef-4a37-b6c8-16896fa74678/resource/9f1977cb-2712-437e-bebf-dd0bbb0d54dd/download/spielflachenversorgung-bespielbare-flache.csv",
+    "type": "CSV",
     "id": "9f1977cb-2712-437e-bebf-dd0bbb0d54dd"
   },
   {
     "package": "sportvereine-in-ka",
-    "title": "sportvereine_eintrag_rubrik.csv",
-    "url": "https://web1.karlsruhe.de/db/sportvereine/opendata/file/sportvereine_eintrag_rubrik.csv",
-    "format": "CSV",
+    "name": "sportvereine_eintrag_rubrik.csv",
+    "source": "https://web1.karlsruhe.de/db/sportvereine/opendata/file/sportvereine_eintrag_rubrik.csv",
+    "type": "CSV",
     "id": "889f722b-5219-40ba-9c1a-603e9c9162bf"
   },
   {
     "package": "sportvereine-in-ka",
-    "title": "sportvereine_sportarten.csv",
-    "url": "https://web1.karlsruhe.de/db/sportvereine/opendata/file/sportvereine_sportarten.csv",
-    "format": "CSV",
+    "name": "sportvereine_sportarten.csv",
+    "source": "https://web1.karlsruhe.de/db/sportvereine/opendata/file/sportvereine_sportarten.csv",
+    "type": "CSV",
     "id": "913f2550-f7ff-445f-a3ea-128615fe0b58"
   },
   {
     "package": "sportvereine-in-ka",
-    "title": "sportvereine.csv",
-    "url": "https://web1.karlsruhe.de/db/sportvereine/opendata/file/sportvereine.csv",
-    "format": "CSV",
+    "name": "sportvereine.csv",
+    "source": "https://web1.karlsruhe.de/db/sportvereine/opendata/file/sportvereine.csv",
+    "type": "CSV",
     "id": "befa8f52-27f6-46c9-b2f8-45702932b5b0"
   },
   {
     "package": "treibhausgasbilanz-karlsruhe",
-    "title": "Treibhausgasbilanz",
-    "url": "https://transparenz.karlsruhe.de/dataset/7306d25b-8b18-445f-9351-6eec030c7753/resource/fd9de911-5142-4083-9d1b-5e09788022b3/download/treibhausgase.csv",
-    "format": "CSV",
+    "name": "Treibhausgasbilanz",
+    "source": "https://transparenz.karlsruhe.de/dataset/7306d25b-8b18-445f-9351-6eec030c7753/resource/fd9de911-5142-4083-9d1b-5e09788022b3/download/treibhausgase.csv",
+    "type": "CSV",
     "id": "fd9de911-5142-4083-9d1b-5e09788022b3"
   },
   {
     "package": "trinkwasseranalyse-hochbehalter-luss",
-    "title": "Trinkwasseranalyse HB Luss (Stand Dezember 2017)",
-    "url": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/ac99864b-ab11-4d25-9d83-b56bc8d0782a/download/swk-trinkwasseranalysen-hb-luss-stand-dezember-2017.csv",
-    "format": "CSV",
+    "name": "Trinkwasseranalyse HB Luss (Stand Dezember 2017)",
+    "source": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/ac99864b-ab11-4d25-9d83-b56bc8d0782a/download/swk-trinkwasseranalysen-hb-luss-stand-dezember-2017.csv",
+    "type": "CSV",
     "id": "ac99864b-ab11-4d25-9d83-b56bc8d0782a"
   },
   {
     "package": "trinkwasseranalyse-hochbehalter-luss",
-    "title": "Trinkwasseranalyse HB Luss (Stand Oktober 2019)",
-    "url": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/9c5f3052-8b9a-429a-9a6c-9189785ddd97/download/trinkwasser_qualitaet_hb_luss_2019-10.csv",
-    "format": "CSV",
+    "name": "Trinkwasseranalyse HB Luss (Stand Oktober 2019)",
+    "source": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/9c5f3052-8b9a-429a-9a6c-9189785ddd97/download/trinkwasser_qualitaet_hb_luss_2019-10.csv",
+    "type": "CSV",
     "id": "9c5f3052-8b9a-429a-9a6c-9189785ddd97"
   },
   {
     "package": "trinkwasseranalyse-hochbehalter-luss",
-    "title": "Trinkwasseranalyse HB Luss (Stand Februar 2017)",
-    "url": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/15e317b3-0e17-4451-9d4e-5d5478620f1c/download/swk-trinkwasseranalysen-hb-luss-stand-februar-2017.csv",
-    "format": "CSV",
+    "name": "Trinkwasseranalyse HB Luss (Stand Februar 2017)",
+    "source": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/15e317b3-0e17-4451-9d4e-5d5478620f1c/download/swk-trinkwasseranalysen-hb-luss-stand-februar-2017.csv",
+    "type": "CSV",
     "id": "15e317b3-0e17-4451-9d4e-5d5478620f1c"
   },
   {
     "package": "trinkwasseranalyse-hochbehalter-luss",
-    "title": "Trinkwasseranalyse HB Luss (Stand Juni 2018)",
-    "url": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/d4d979e4-e518-424c-82b5-ab0c8b6bcc25/download/swk-trinkwasseranalysen-hb-luss-stand-juni-2018.csv",
-    "format": "CSV",
+    "name": "Trinkwasseranalyse HB Luss (Stand Juni 2018)",
+    "source": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/d4d979e4-e518-424c-82b5-ab0c8b6bcc25/download/swk-trinkwasseranalysen-hb-luss-stand-juni-2018.csv",
+    "type": "CSV",
     "id": "d4d979e4-e518-424c-82b5-ab0c8b6bcc25"
   },
   {
     "package": "trinkwasseranalyse-hochbehalter-luss",
-    "title": "Trinkwasseranalysen HB Luss (Stand März 2021)",
-    "url": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/9f98cfb3-ffa0-402e-9b0a-e1ae35419af8/download/trinkwasseranalysen-hb-luss-stand-marz-2021.csv",
-    "format": "CSV",
+    "name": "Trinkwasseranalysen HB Luss (Stand März 2021)",
+    "source": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/9f98cfb3-ffa0-402e-9b0a-e1ae35419af8/download/trinkwasseranalysen-hb-luss-stand-marz-2021.csv",
+    "type": "CSV",
     "id": "9f98cfb3-ffa0-402e-9b0a-e1ae35419af8"
   },
   {
     "package": "trinkwasseranalyse-hochbehalter-luss",
-    "title": "Trinkwasseranalysen HB Luss (Stand Juli 2023)",
-    "url": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/ab0f679d-6b24-4bff-8ee8-5db0e8d7fff7/download/trinkwasseranalysen-hb-luss-stand-juli-2023.csv",
-    "format": "CSV",
+    "name": "Trinkwasseranalysen HB Luss (Stand Juli 2023)",
+    "source": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/ab0f679d-6b24-4bff-8ee8-5db0e8d7fff7/download/trinkwasseranalysen-hb-luss-stand-juli-2023.csv",
+    "type": "CSV",
     "id": "ab0f679d-6b24-4bff-8ee8-5db0e8d7fff7"
   },
   {
     "package": "trinkwasseranalyse-hochbehalter-luss",
-    "title": "Trinkwasseranalysen HB Luss (Stand März 2022)",
-    "url": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/4a16a696-d56d-4fac-b30c-8ca2c6d99f73/download/trinkwasseranalysen-hb-luss-stand-marz-2022.csv",
-    "format": "CSV",
+    "name": "Trinkwasseranalysen HB Luss (Stand März 2022)",
+    "source": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/4a16a696-d56d-4fac-b30c-8ca2c6d99f73/download/trinkwasseranalysen-hb-luss-stand-marz-2022.csv",
+    "type": "CSV",
     "id": "4a16a696-d56d-4fac-b30c-8ca2c6d99f73"
   },
   {
     "package": "ubergange-auf-weiterfuhrende-schulen",
-    "title": "Schülerinnen und Schüler der 4. Klassenstufe insgesamt",
-    "url": "https://transparenz.karlsruhe.de/dataset/890dc375-684f-4693-99fd-134b594bc83f/resource/d674d5dc-1c00-4868-973a-595c47d7d1b6/download/ubergange-auf-weiterfuhrende-schulen-schulerinnen-und-schuler-der-4.-klassenstufe-insgesamt.csv",
-    "format": "CSV",
+    "name": "Schülerinnen und Schüler der 4. Klassenstufe insgesamt",
+    "source": "https://transparenz.karlsruhe.de/dataset/890dc375-684f-4693-99fd-134b594bc83f/resource/d674d5dc-1c00-4868-973a-595c47d7d1b6/download/ubergange-auf-weiterfuhrende-schulen-schulerinnen-und-schuler-der-4.-klassenstufe-insgesamt.csv",
+    "type": "CSV",
     "id": "d674d5dc-1c00-4868-973a-595c47d7d1b6"
   },
   {
     "package": "ubergange-auf-weiterfuhrende-schulen",
-    "title": "Übergangsquoten auf Realschulen",
-    "url": "https://transparenz.karlsruhe.de/dataset/890dc375-684f-4693-99fd-134b594bc83f/resource/aa2d2b17-15ea-4827-ac5a-a5b2b295aed8/download/ubergange-auf-weiterfuhrende-schulen-ubergangsquoten-auf-realschulen.csv",
-    "format": "CSV",
+    "name": "Übergangsquoten auf Realschulen",
+    "source": "https://transparenz.karlsruhe.de/dataset/890dc375-684f-4693-99fd-134b594bc83f/resource/aa2d2b17-15ea-4827-ac5a-a5b2b295aed8/download/ubergange-auf-weiterfuhrende-schulen-ubergangsquoten-auf-realschulen.csv",
+    "type": "CSV",
     "id": "aa2d2b17-15ea-4827-ac5a-a5b2b295aed8"
   },
   {
     "package": "ubergange-auf-weiterfuhrende-schulen",
-    "title": "Übergangsquoten auf Haupt-/Werkrealschulen",
-    "url": "https://transparenz.karlsruhe.de/dataset/890dc375-684f-4693-99fd-134b594bc83f/resource/46b95145-d15c-4e55-a74d-993afa714ec6/download/ubergange-auf-weiterfuhrende-schulen-ubergangsquoten-auf-haupt-werkrealschulen.csv",
-    "format": "CSV",
+    "name": "Übergangsquoten auf Haupt-/Werkrealschulen",
+    "source": "https://transparenz.karlsruhe.de/dataset/890dc375-684f-4693-99fd-134b594bc83f/resource/46b95145-d15c-4e55-a74d-993afa714ec6/download/ubergange-auf-weiterfuhrende-schulen-ubergangsquoten-auf-haupt-werkrealschulen.csv",
+    "type": "CSV",
     "id": "46b95145-d15c-4e55-a74d-993afa714ec6"
   },
   {
     "package": "ubergange-auf-weiterfuhrende-schulen",
-    "title": "Übergangsquoten auf Gymnasien",
-    "url": "https://transparenz.karlsruhe.de/dataset/890dc375-684f-4693-99fd-134b594bc83f/resource/222adad1-baf0-421e-9cdd-d723f6a22bf9/download/ubergange-auf-weiterfuhrende-schulen-ubergangsquoten-auf-gymnasien.csv",
-    "format": "CSV",
+    "name": "Übergangsquoten auf Gymnasien",
+    "source": "https://transparenz.karlsruhe.de/dataset/890dc375-684f-4693-99fd-134b594bc83f/resource/222adad1-baf0-421e-9cdd-d723f6a22bf9/download/ubergange-auf-weiterfuhrende-schulen-ubergangsquoten-auf-gymnasien.csv",
+    "type": "CSV",
     "id": "222adad1-baf0-421e-9cdd-d723f6a22bf9"
   },
   {
     "package": "ubergange-auf-weiterfuhrende-schulen",
-    "title": "Übergangsquoten auf Gemeinschaftsschulen",
-    "url": "https://transparenz.karlsruhe.de/dataset/890dc375-684f-4693-99fd-134b594bc83f/resource/a6d8f29a-5136-46e7-8245-c5b8c3b09244/download/ubergange-auf-weiterfuhrende-schulen-ubergangsquoten-auf-gemeinschaftsschulen.csv",
-    "format": "CSV",
+    "name": "Übergangsquoten auf Gemeinschaftsschulen",
+    "source": "https://transparenz.karlsruhe.de/dataset/890dc375-684f-4693-99fd-134b594bc83f/resource/a6d8f29a-5136-46e7-8245-c5b8c3b09244/download/ubergange-auf-weiterfuhrende-schulen-ubergangsquoten-auf-gemeinschaftsschulen.csv",
+    "type": "CSV",
     "id": "a6d8f29a-5136-46e7-8245-c5b8c3b09244"
   },
   {
     "package": "ubergange-auf-weiterfuhrende-schulen",
-    "title": "Wiederholer und sonstige Ab-/Übergänge",
-    "url": "https://transparenz.karlsruhe.de/dataset/890dc375-684f-4693-99fd-134b594bc83f/resource/98645f11-afb5-4a16-95e5-b74e989270a3/download/ubergange-auf-weiterfuhrende-schulen-wiederholer-und-sonstige-ab-ubergange.csv",
-    "format": "CSV",
+    "name": "Wiederholer und sonstige Ab-/Übergänge",
+    "source": "https://transparenz.karlsruhe.de/dataset/890dc375-684f-4693-99fd-134b594bc83f/resource/98645f11-afb5-4a16-95e5-b74e989270a3/download/ubergange-auf-weiterfuhrende-schulen-wiederholer-und-sonstige-ab-ubergange.csv",
+    "type": "CSV",
     "id": "98645f11-afb5-4a16-95e5-b74e989270a3"
   },
   {
     "package": "wetterdaten-13-monate-ruckwirkend",
-    "title": "Wetterdaten-13-monate-rückwirkend",
-    "url": "https://web1.karlsruhe.de/klima/file/wetter_13m.csv",
-    "format": "CSV",
+    "name": "Wetterdaten-13-monate-rückwirkend",
+    "source": "https://web1.karlsruhe.de/klima/file/wetter_13m.csv",
+    "type": "CSV",
     "id": "85deef2a-90a5-4155-8d05-112c802ee72f"
   }
 ]
