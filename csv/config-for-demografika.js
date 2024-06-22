@@ -1,7 +1,30 @@
 const fs = require('fs');
 
-const data = JSON.parse(fs.readFileSync('CSV.json', 'utf8'))
-const categoryData = JSON.parse(fs.readFileSync('categories.json', 'utf8'))
+function transformCategories(categories, isCategory = true) {
+  const result = [];
+  for (const categoryKey in categories) {
+    if (categories.hasOwnProperty(categoryKey)) {
+      const category = categories[categoryKey];
+      const transformedCategory = {
+        name: category.name,
+        description: category.description,
+      };
+      if(isCategory) {
+          if (category.subcategories) {
+              transformedCategory.subcategories = transformCategories(category.subcategories, false);
+            }
+      }
+      else {
+          transformedCategory.resources = category.resources
+      }
+      result.push(transformedCategory);
+    }
+  }
+  return result;
+}
+
+const data = JSON.parse(fs.readFileSync('csv/CSV.json', 'utf8'))
+const categoryData = JSON.parse(fs.readFileSync('csv/categories.json', 'utf8'))
 
 const settings = {
     "renameProperties": {},
@@ -11,6 +34,7 @@ const settings = {
         "max": 2021
       }
     },
+    "skipPropertiesRegEx": "^_id$",
     "visualizations": {
       "barChart": {
         "axisPairs": []
@@ -20,6 +44,7 @@ const settings = {
 }
 
 const settings2 = {
+    "skipPropertiesRegEx": "^_id$",
     "visualizations": {
       "barChart": {
         "axisPairs": [
@@ -34,27 +59,36 @@ const settings2 = {
 }
 
 const rename = {
-    "männlich (%)": "Männlich",
-    "männlich": "Männlich",
+    "mannlich (%)": "Männlich",
+    "mannlich": "Männlich",
     "weiblich (%)": "Weiblich",
     "weiblich": "Weiblich",
-    "Ausländer/-innen (%)": "Ausländer/-innen",
+    "Auslander/-innen": "Ausländer/-innen",
+    "Manneranteil": "Männeranteil",
+    "Auslander/-innen (%)": "Ausländer/-innen",
     "Haushalte %": "Haushalte",
     "Deutsche mit Migrationshintergrund (%)": "Deutsche mit Migrationshintergrund",
     "Migrant/-innen %": "Migrant/-innen",
-    "Hunde je 1.000 Bewohner/-innen (Wohnberechtigte)": "Hunde je 1.000 Wohnberechtigte",
-    "Hunde je 1.000 Haushalte (HH)": "Hunde je 1.000 Haushalte",
+    "Hunde je 1.000 Bewohner/-innen (Wohnberechtigte)": "Hunde je 1000 Wohnberechtigte",
+    "Hunde je 1.000 Haushalte (HH)": "Hunde je 1000 Haushalte",
     "Altersklasse %": "Altersklasse",
     "Gemeinschaftsschule %": "Gemeinschaftsschule",
     "Gymnasium %": "Gymnasium",
     "Haupt-/Werkrealschule %": "Haupt-/Werkrealschule",
     "Realschule %": "Realschule",
     "Wiederholer/ Sonstige %": "Wiederholer/Sonstige",
-    "Wohngebaeude": "Wohngebäude"
+    "Wohngebaeude": "Wohngebäude",
+    "Wohngebaude": "Wohngebäude",
+    "1- und 2-Fam.häuser %": "1- & 2-Familienhäuser",
+    "Wohngeb. mit 2 Wohnungen": "Wohngebäude mit 2 Wohnungen",
+    "Wohngeb. mit 1 Wohnung": "Wohngebäude mit 1 Wohnung",
+    "Wohngeb. mit 3-6 Wohnungen": "Wohngebäude mit 3-6 Wohnungen",
+    "Wohngeb. mit 7 u. mehr Wohnungen": "Wohngebäude mit 7+ Wohnungen",
+    "ubergegangene Schuler/-innen": "Übergegangene Schüler/-innen",
 }
 
 const remainingData = []
-const newData = []
+const newData = {resources:[],categories:{}}
 
 
 data.forEach((e) => {
@@ -64,7 +98,11 @@ data.forEach((e) => {
     }
 
     const {category, subcategory, name, s3, s4, s5} = categoryData[e.id]
-    const res = {...e, ...structuredClone(settings), name, category, subcategory}
+    const res = {...e, ...structuredClone(settings), name}
+
+    res.source = `https://transparenz.karlsruhe.de/datastore/dump/${res.id}?bom=True`
+
+    delete res.package
 
     const rows = []
     if (s3 !== "") rows.push(s3);
@@ -86,8 +124,17 @@ data.forEach((e) => {
           })
     })
 
-    newData.push(res);
+    newData.resources.push(res);
+    if (!newData.categories[category]) {
+      newData.categories[category] = {name: category, description: "ToDo", subcategories: {}}
+    }
+    if(!newData.categories[category].subcategories[subcategory]) {
+      newData.categories[category].subcategories[subcategory] = {name: subcategory, description: "ToDo", resources: []}
+    }
+    newData.categories[category].subcategories[subcategory].resources.push(res.id);
 })
 
-fs.writeFileSync('Gesellschaft.json', JSON.stringify(newData, null, 2))
-fs.writeFileSync('CSV3.json', JSON.stringify(remainingData, null, 2))
+newData.categories = transformCategories(newData.categories)
+
+fs.writeFileSync('GesellschaftNeu.json', JSON.stringify(newData, null, 2))
+fs.writeFileSync('remainingNeu.json', JSON.stringify(remainingData, null, 2))
