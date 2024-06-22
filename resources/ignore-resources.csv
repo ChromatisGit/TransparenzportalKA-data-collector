@@ -28,3 +28,5 @@ verkehrsberuhigte-bereiche,Verkehrsberuhigte Bereiche (Shapefile),https://mobil.
 wohnmobilparkplaetze,Wohnmobilparkplätze (Shapefile),http://mobil.trk.de/geoserver/TBA/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=TBA%3Aka_wohnmobilparkplatz&outputFormat=SHAPE-ZIP,SHP,350000d7-8175-468a-9943-232a9e142026
 wohnmobilparkplaetze,Wohnmobilparkplätze (CSV),http://mobil.trk.de/geoserver/TBA/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=TBA%3Aka_wohnmobilparkplatz&outputFormat=text%2Fcsv,CSV,73c1d24a-5f28-4fd0-bacd-7f3d9e976683
 stadtteile,Stadtteile Stadt Karlsruhe - Shapefile,https://geoportal.karlsruhe.de/datenabgabe/Stadtteile_SHP.zip,SHP,b11bc64d-c511-4fec-bc99-7333989ec673
+00cb5ea4-9e4b-4697-9f0b-b4474bf13f89
+f120ef9b-4aed-480b-9c67-c1301da2b34e

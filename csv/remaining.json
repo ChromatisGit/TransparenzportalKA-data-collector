@@ -1,0 +1,984 @@
+[
+  {
+    "package": "sportvereine-in-ka",
+    "name": "sportvereine_eintrag_rubrik.csv",
+    "source": "https://web1.karlsruhe.de/db/sportvereine/opendata/file/sportvereine_eintrag_rubrik.csv",
+    "type": "CSV",
+    "id": "889f722b-5219-40ba-9c1a-603e9c9162bf"
+  },
+  {
+    "package": "sportvereine-in-ka",
+    "name": "sportvereine_sportarten.csv",
+    "source": "https://web1.karlsruhe.de/db/sportvereine/opendata/file/sportvereine_sportarten.csv",
+    "type": "CSV",
+    "id": "913f2550-f7ff-445f-a3ea-128615fe0b58"
+  },
+  {
+    "package": "sportvereine-in-ka",
+    "name": "sportvereine.csv",
+    "source": "https://web1.karlsruhe.de/db/sportvereine/opendata/file/sportvereine.csv",
+    "type": "CSV",
+    "id": "befa8f52-27f6-46c9-b2f8-45702932b5b0"
+  },
+  {
+    "package": "wetterdaten-13-monate-ruckwirkend",
+    "name": "Wetterdaten-13-monate-rückwirkend",
+    "source": "https://web1.karlsruhe.de/klima/file/wetter_13m.csv",
+    "type": "CSV",
+    "id": "85deef2a-90a5-4155-8d05-112c802ee72f"
+  },
+  {
+    "package": "daten-des-haushaltsplans-2019-2020",
+    "name": "Finanzhaushalt",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad6811bf-7b3d-48c3-ae6f-a92c3967fbdf/resource/e9f6ce98-a6a7-42fa-b728-9484e71998c0/download/ikvs_finrech_2019.csv",
+    "type": "CSV",
+    "id": "e9f6ce98-a6a7-42fa-b728-9484e71998c0",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "daten-des-haushaltsplans-2019-2020",
+    "name": "Ergebnishaushalt",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad6811bf-7b3d-48c3-ae6f-a92c3967fbdf/resource/4ea38a76-d9ba-4679-b5a6-b6e980b3b255/download/ikvs_ergrech_2019.csv",
+    "type": "CSV",
+    "id": "4ea38a76-d9ba-4679-b5a6-b6e980b3b255",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "daten-des-haushaltsplans-2019-2020",
+    "name": "Teilhaushalte",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad6811bf-7b3d-48c3-ae6f-a92c3967fbdf/resource/a78b85c9-a9c8-4d2e-b844-cd98503c806e/download/teilhaushalte.csv",
+    "type": "CSV",
+    "id": "a78b85c9-a9c8-4d2e-b844-cd98503c806e",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "daten-des-haushaltsplans-2021",
+    "name": "Ergebnisrechnung 2021",
+    "source": "https://transparenz.karlsruhe.de/dataset/3363a926-67d0-49f0-a47e-373eff46e663/resource/8da28863-97c0-446b-b17b-b17cceda4c24/download/ergrech_2021.csv",
+    "type": "CSV",
+    "id": "8da28863-97c0-446b-b17b-b17cceda4c24",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "daten-des-haushaltsplans-2021",
+    "name": "Finanzrechnung 2021",
+    "source": "https://transparenz.karlsruhe.de/dataset/3363a926-67d0-49f0-a47e-373eff46e663/resource/8b0012b6-92e6-4fe3-a1e1-d49a8306e12a/download/finrech_2021.csv",
+    "type": "CSV",
+    "id": "8b0012b6-92e6-4fe3-a1e1-d49a8306e12a",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "daten-des-haushaltsplans-2022-2023",
+    "name": "Finanzrechnung 2022",
+    "source": "https://transparenz.karlsruhe.de/dataset/40c8827d-b85d-42c4-8270-f498d13b3282/resource/f9e4a854-9d57-4263-bf15-8fca1dfd9271/download/ikvs_finrech_2022.csv",
+    "type": "CSV",
+    "id": "f9e4a854-9d57-4263-bf15-8fca1dfd9271",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "daten-des-haushaltsplans-2022-2023",
+    "name": "Ergebnisrechnung 2022",
+    "source": "https://transparenz.karlsruhe.de/dataset/40c8827d-b85d-42c4-8270-f498d13b3282/resource/fff8e4ba-7b73-4b8a-b8fd-2b2cbeec8a70/download/ikvs_ergrech_2022.csv",
+    "type": "CSV",
+    "id": "fff8e4ba-7b73-4b8a-b8fd-2b2cbeec8a70",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "europawahl-2019",
+    "name": "Ergebnisse Europawahl 2019",
+    "source": "https://transparenz.karlsruhe.de/dataset/ef7cca66-6d3f-4c97-99ba-03cfeec88018/resource/b97c9405-ecb8-42a8-9854-560d2f921531/download/karlsruhe-europawahl-2.csv",
+    "type": "CSV",
+    "id": "b97c9405-ecb8-42a8-9854-560d2f921531",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "gebaudegroenstruktur",
+    "name": "1- und 2-Familienhäuser (Anteil)",
+    "source": "https://transparenz.karlsruhe.de/dataset/74bf19a3-bf3a-43bf-947d-28b8fb5c80e5/resource/13217754-6456-45b2-8c95-25ef45a887cf/download/gebaudegroenstruktur-1-und-2-familienhauser-anteil.csv",
+    "type": "CSV",
+    "id": "13217754-6456-45b2-8c95-25ef45a887cf",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "haushaltsplan-daten-2017-2018",
+    "name": "Gesamtergebnishaushalt",
+    "source": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/b58379fc-cd3a-4f79-b1b1-917ee69c94e2/download/gesamtergebnishaushalt-2017-2018.csv",
+    "type": "CSV",
+    "id": "b58379fc-cd3a-4f79-b1b1-917ee69c94e2",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "haushaltsplan-daten-2017-2018",
+    "name": "Teilergebnishaushalte",
+    "source": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/b4547600-d11e-4ac3-9fc4-bc5bc5354dc4/download/teilergebnishaushalte-2017-2018.csv",
+    "type": "CSV",
+    "id": "b4547600-d11e-4ac3-9fc4-bc5bc5354dc4",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "haushaltsplan-daten-2017-2018",
+    "name": "Gesamtfinanzhaushalt",
+    "source": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/bd2e7f77-2dce-43ea-957b-7025520fe6a7/download/gesamtfinanzhaushalt-2017-2018.csv",
+    "type": "CSV",
+    "id": "bd2e7f77-2dce-43ea-957b-7025520fe6a7",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "haushaltsplan-daten-2017-2018",
+    "name": "Teilfinanzhaushalte",
+    "source": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/7d0058ff-be22-48ba-b829-b0f63056a81f/download/teilfinanzhaushalte-2017-2018.csv",
+    "type": "CSV",
+    "id": "7d0058ff-be22-48ba-b829-b0f63056a81f",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "haushaltsplan-daten-2017-2018",
+    "name": "Investitionsübersichten",
+    "source": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/bf78af17-949a-4465-8745-05be2a0e1725/download/investitionsuebersichten-2017-2018.csv",
+    "type": "CSV",
+    "id": "bf78af17-949a-4465-8745-05be2a0e1725",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "haushaltsplan-daten-2017-2018",
+    "name": "Teilhaushalte",
+    "source": "https://transparenz.karlsruhe.de/dataset/b0e3ce51-a09b-47f6-b583-3250d731e21f/resource/ab7aae34-1934-493d-b2a9-f4919b31a460/download/teilhaushalte-2017-2018.csv",
+    "type": "CSV",
+    "id": "ab7aae34-1934-493d-b2a9-f4919b31a460",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "jahresstatistik-burgerdienste",
+    "name": "Jahresstatistik September 2020 bis August 2021",
+    "source": "https://transparenz.karlsruhe.de/dataset/a73bcee8-2bbc-4a88-b10d-053b4dd75667/resource/726fb982-0d9b-495d-b95c-898b3e0bea90/download/jahresuebersichtseitenaufrufeleistungen_intranet.csv",
+    "type": "CSV",
+    "id": "726fb982-0d9b-495d-b95c-898b3e0bea90",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "ka-feedback-meldungen",
+    "name": "KA-Feedback Meldungen 2012",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/51412c59-0356-456d-9412-fa7f3bf18741/download/ka-feedback-2012.csv",
+    "type": "CSV",
+    "id": "51412c59-0356-456d-9412-fa7f3bf18741",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "ka-feedback-meldungen",
+    "name": "KA-Feedback Meldungen 2013",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/7dd118e3-5a3e-43fb-8416-3cd6e449e07d/download/ka-feedback-2013.csv",
+    "type": "CSV",
+    "id": "7dd118e3-5a3e-43fb-8416-3cd6e449e07d",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "ka-feedback-meldungen",
+    "name": "KA-Feedback Meldungen 2016",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/8bb611b3-4560-429d-bba7-c6d018752f0e/download/ka-feedback-2016.csv",
+    "type": "CSV",
+    "id": "8bb611b3-4560-429d-bba7-c6d018752f0e",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "ka-feedback-meldungen",
+    "name": "KA-Feedback Meldungen 2014",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/723dbf86-993f-4f3d-9fc8-a12cff3249fe/download/ka-feedback-2014.csv",
+    "type": "CSV",
+    "id": "723dbf86-993f-4f3d-9fc8-a12cff3249fe",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "ka-feedback-meldungen",
+    "name": "KA-Feedback Meldungen 2015",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/368b34e9-475d-4af8-8f1f-f636776af4d0/download/ka-feedback-2015.csv",
+    "type": "CSV",
+    "id": "368b34e9-475d-4af8-8f1f-f636776af4d0",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "ka-feedback-meldungen",
+    "name": "KA-Feedback Meldungen 2017",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/980ad0c7-d4ab-4dce-b634-5ca991d22464/download/ka-feedback-2017.csv",
+    "type": "CSV",
+    "id": "980ad0c7-d4ab-4dce-b634-5ca991d22464",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "ka-feedback-meldungen",
+    "name": "KA-Feedback Meldungen 2019",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/68cd602d-2e05-4301-9398-db1340d56d37/download/ka-feedback-2019.csv",
+    "type": "CSV",
+    "id": "68cd602d-2e05-4301-9398-db1340d56d37",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "ka-feedback-meldungen",
+    "name": "KA-Feedback Meldungen 2020",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/19c40fe4-4282-4b46-9146-4456796ac54e/download/ka-feedback-2020.csv",
+    "type": "CSV",
+    "id": "19c40fe4-4282-4b46-9146-4456796ac54e",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "ka-feedback-meldungen",
+    "name": "KA-Feedback Meldungen 2018",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/85ed3a76-6018-4043-901d-1b3a5e1aaf8f/download/ka-feedback-2018.csv",
+    "type": "CSV",
+    "id": "85ed3a76-6018-4043-901d-1b3a5e1aaf8f",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "ka-feedback-meldungen",
+    "name": "KA-Feedback Meldungen 2021",
+    "source": "https://transparenz.karlsruhe.de/dataset/08bf8e15-a448-4524-808e-02e8c553a7eb/resource/55c92e07-dba2-485f-8231-c163a688f238/download/ka-feedback-2021.csv",
+    "type": "CSV",
+    "id": "55c92e07-dba2-485f-8231-c163a688f238",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "landtagswahl-2016",
+    "name": "Wahlkreis 28 (Karlsruhe II)",
+    "source": "https://transparenz.karlsruhe.de/dataset/c6576352-5ece-4380-a837-1e454606bacd/resource/6fa5196b-6b6c-46b2-b700-4e302f887919/download/landtagswahl_2016_wahlkreis_28.csv",
+    "type": "CSV",
+    "id": "6fa5196b-6b6c-46b2-b700-4e302f887919",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "landtagswahl-2016",
+    "name": "Wahlkreis 27 (Karlsruhe I)",
+    "source": "https://transparenz.karlsruhe.de/dataset/c6576352-5ece-4380-a837-1e454606bacd/resource/2c6f0e52-51d1-488d-91ec-7e51ec44d7d6/download/landtagswahl_2016_wahlkreis_27.csv",
+    "type": "CSV",
+    "id": "2c6f0e52-51d1-488d-91ec-7e51ec44d7d6",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "landtagswahl-2021",
+    "name": "Wahlbezirken und Wahlräumen",
+    "source": "https://transparenz.karlsruhe.de/dataset/61eaf3b7-5e8c-4742-be4b-4068cd9e901c/resource/613d1620-f275-46a2-9eef-98e84c83e392/download/opendata-wahllokale.csv",
+    "type": "CSV",
+    "id": "613d1620-f275-46a2-9eef-98e84c83e392",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "landtagswahl-2021",
+    "name": "Ergebnis nach Wahlbezirken",
+    "source": "https://transparenz.karlsruhe.de/dataset/61eaf3b7-5e8c-4742-be4b-4068cd9e901c/resource/9e2429c9-1ff4-4bd9-aa0a-44c0ac4768b9/download/open-data-landtagswahl-bw-2021-_land-bw_ergebnis-nach-wahlbezirken.csv",
+    "type": "CSV",
+    "id": "9e2429c9-1ff4-4bd9-aa0a-44c0ac4768b9",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "landtagswahl-2021",
+    "name": "Ergebnis nach Wahlkreisen",
+    "source": "https://transparenz.karlsruhe.de/dataset/61eaf3b7-5e8c-4742-be4b-4068cd9e901c/resource/c222f4d6-eaba-4d81-b953-e4e069a0d884/download/open-data-landtagswahl-bw-2021-_land-bw_ergebnis_nach_wahlkreisen.csv",
+    "type": "CSV",
+    "id": "c222f4d6-eaba-4d81-b953-e4e069a0d884",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "landtagswahl-2021",
+    "name": "Ergebnis nach Stadtteilen",
+    "source": "https://transparenz.karlsruhe.de/dataset/61eaf3b7-5e8c-4742-be4b-4068cd9e901c/resource/6b61884f-68d5-4b11-ab39-0b90bb264622/download/open-data-landtagswahl-bw-2021-_land-bw_ergebnis_nach_stadtteilen.csv",
+    "type": "CSV",
+    "id": "6b61884f-68d5-4b11-ab39-0b90bb264622",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "migration",
+    "name": "Bevölkerung mit Migrationshintergrund nach Art",
+    "source": "https://transparenz.karlsruhe.de/dataset/9bc7289b-ba18-47cc-a5bb-75bb622759ab/resource/7cfab000-e64b-41bb-95ad-2035663fc145/download/migration-bevolkerung-mit-migrationshintergrund-nach-art.csv",
+    "type": "CSV",
+    "id": "7cfab000-e64b-41bb-95ad-2035663fc145",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "sensordaten-karlsruhe",
+    "name": "Messwerte Friedrichsplatz Januar 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/9003976d-704c-4472-8671-d3dff04922b9/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_jan_2023.csv",
+    "type": "CSV",
+    "id": "9003976d-704c-4472-8671-d3dff04922b9",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "sensordaten-karlsruhe",
+    "name": "Messwerte Friedrichsplatz Februar 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/7eebd0ec-142b-4696-a8e8-c0be013231ef/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_feb_2023.csv",
+    "type": "CSV",
+    "id": "7eebd0ec-142b-4696-a8e8-c0be013231ef",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "sensordaten-karlsruhe",
+    "name": "Messwerte Friedrichsplatz März 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/fc198da4-d976-469e-b7fe-cb8f9c7f42d9/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_mar_2023.csv",
+    "type": "CSV",
+    "id": "fc198da4-d976-469e-b7fe-cb8f9c7f42d9",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "sensordaten-karlsruhe",
+    "name": "Messwerte Friedrichsplatz April 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/e489a40e-d3e8-4888-b3a2-e09169a36a36/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_apr_2023.csv",
+    "type": "CSV",
+    "id": "e489a40e-d3e8-4888-b3a2-e09169a36a36",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "sensordaten-karlsruhe",
+    "name": "Messwerte Friedrichsplatz Mai 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/e6fbd89e-54f4-4ad5-98c3-e15c97509548/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_mai_2023.csv",
+    "type": "CSV",
+    "id": "e6fbd89e-54f4-4ad5-98c3-e15c97509548",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "sensordaten-karlsruhe",
+    "name": "Messwerte Friedrichsplatz Juli 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/22e4e246-e858-48c2-b155-f9485140d39c/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_jul_2023.csv",
+    "type": "CSV",
+    "id": "22e4e246-e858-48c2-b155-f9485140d39c",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "sensordaten-karlsruhe",
+    "name": "Messwerte Friedrichsplatz Juni 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/863bda3a-7693-4a7d-9eb8-268687964c83/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_jun_2023.csv",
+    "type": "CSV",
+    "id": "863bda3a-7693-4a7d-9eb8-268687964c83",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "sensordaten-karlsruhe",
+    "name": "Messwerte Friedrichsplatz August 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/28c99b77-3ce1-450e-8417-53d4c4d7a080/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_aug_2023.csv",
+    "type": "CSV",
+    "id": "28c99b77-3ce1-450e-8417-53d4c4d7a080",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "sensordaten-karlsruhe",
+    "name": "Messwerte Friedrichsplatz September 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/d5395f42-c8ef-4c9f-988f-9ee56d842997/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_sep_2023.csv",
+    "type": "CSV",
+    "id": "d5395f42-c8ef-4c9f-988f-9ee56d842997",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "sensordaten-karlsruhe",
+    "name": "Messwerte Friedrichsplatz Oktober 2023",
+    "source": "https://transparenz.karlsruhe.de/dataset/ad0659b0-9e4b-408a-8840-3f19d5ec743d/resource/df843a83-b3f6-4929-b6a8-96471508f6f2/download/sensordaten_karlsruhe_bodentemperatur_bodenfeuchte_oct_2023.csv",
+    "type": "CSV",
+    "id": "df843a83-b3f6-4929-b6a8-96471508f6f2",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "spielflachenversorgung",
+    "name": "Spielflächenfehlbedarf (-) / -überschuss",
+    "source": "https://transparenz.karlsruhe.de/dataset/5e1001f4-2cef-4a37-b6c8-16896fa74678/resource/0706a117-2ed6-4000-a598-c637cc311b93/download/spielflachenversorgung-spielflachenfehlbedarf-uberschuss.csv",
+    "type": "CSV",
+    "id": "0706a117-2ed6-4000-a598-c637cc311b93",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "spielflachenversorgung",
+    "name": "Bespielbare Fläche",
+    "source": "https://transparenz.karlsruhe.de/dataset/5e1001f4-2cef-4a37-b6c8-16896fa74678/resource/9f1977cb-2712-437e-bebf-dd0bbb0d54dd/download/spielflachenversorgung-bespielbare-flache.csv",
+    "type": "CSV",
+    "id": "9f1977cb-2712-437e-bebf-dd0bbb0d54dd",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "treibhausgasbilanz-karlsruhe",
+    "name": "Treibhausgasbilanz",
+    "source": "https://transparenz.karlsruhe.de/dataset/7306d25b-8b18-445f-9351-6eec030c7753/resource/fd9de911-5142-4083-9d1b-5e09788022b3/download/treibhausgase.csv",
+    "type": "CSV",
+    "id": "fd9de911-5142-4083-9d1b-5e09788022b3",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "trinkwasseranalyse-hochbehalter-luss",
+    "name": "Trinkwasseranalyse HB Luss (Stand Dezember 2017)",
+    "source": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/ac99864b-ab11-4d25-9d83-b56bc8d0782a/download/swk-trinkwasseranalysen-hb-luss-stand-dezember-2017.csv",
+    "type": "CSV",
+    "id": "ac99864b-ab11-4d25-9d83-b56bc8d0782a",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "trinkwasseranalyse-hochbehalter-luss",
+    "name": "Trinkwasseranalyse HB Luss (Stand Oktober 2019)",
+    "source": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/9c5f3052-8b9a-429a-9a6c-9189785ddd97/download/trinkwasser_qualitaet_hb_luss_2019-10.csv",
+    "type": "CSV",
+    "id": "9c5f3052-8b9a-429a-9a6c-9189785ddd97",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "trinkwasseranalyse-hochbehalter-luss",
+    "name": "Trinkwasseranalyse HB Luss (Stand Februar 2017)",
+    "source": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/15e317b3-0e17-4451-9d4e-5d5478620f1c/download/swk-trinkwasseranalysen-hb-luss-stand-februar-2017.csv",
+    "type": "CSV",
+    "id": "15e317b3-0e17-4451-9d4e-5d5478620f1c",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "trinkwasseranalyse-hochbehalter-luss",
+    "name": "Trinkwasseranalyse HB Luss (Stand Juni 2018)",
+    "source": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/d4d979e4-e518-424c-82b5-ab0c8b6bcc25/download/swk-trinkwasseranalysen-hb-luss-stand-juni-2018.csv",
+    "type": "CSV",
+    "id": "d4d979e4-e518-424c-82b5-ab0c8b6bcc25",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "trinkwasseranalyse-hochbehalter-luss",
+    "name": "Trinkwasseranalysen HB Luss (Stand März 2021)",
+    "source": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/9f98cfb3-ffa0-402e-9b0a-e1ae35419af8/download/trinkwasseranalysen-hb-luss-stand-marz-2021.csv",
+    "type": "CSV",
+    "id": "9f98cfb3-ffa0-402e-9b0a-e1ae35419af8",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "trinkwasseranalyse-hochbehalter-luss",
+    "name": "Trinkwasseranalysen HB Luss (Stand Juli 2023)",
+    "source": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/ab0f679d-6b24-4bff-8ee8-5db0e8d7fff7/download/trinkwasseranalysen-hb-luss-stand-juli-2023.csv",
+    "type": "CSV",
+    "id": "ab0f679d-6b24-4bff-8ee8-5db0e8d7fff7",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  },
+  {
+    "package": "trinkwasseranalyse-hochbehalter-luss",
+    "name": "Trinkwasseranalysen HB Luss (Stand März 2022)",
+    "source": "https://transparenz.karlsruhe.de/dataset/6dfd8a0c-019f-401c-82b6-4f808e31f7f9/resource/4a16a696-d56d-4fac-b30c-8ca2c6d99f73/download/trinkwasseranalysen-hb-luss-stand-marz-2022.csv",
+    "type": "CSV",
+    "id": "4a16a696-d56d-4fac-b30c-8ca2c6d99f73",
+    "visualizations": {
+      "barChart": {
+        "axisPairs": [
+          {
+            "xAxis": "",
+            "yAxis": ""
+          }
+        ]
+      },
+      "table": {}
+    }
+  }
+]
